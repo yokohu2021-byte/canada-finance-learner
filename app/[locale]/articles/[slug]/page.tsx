@@ -30,6 +30,8 @@ export default function ArticlePage({ params }: { params: { locale: string; slug
   const article = getArticle(locale, params.slug);
   if (!article) notFound();
 
+  const adAfterIndex = Math.max(3, Math.floor(article.content.length / 2) - 1);
+
   return (
     <article className="mx-auto max-w-3xl px-4 py-14 sm:px-6">
       <div className="flex flex-wrap gap-2 text-xs text-muted">
@@ -41,23 +43,36 @@ export default function ArticlePage({ params }: { params: { locale: string; slug
       <div className="mt-6">
         <DisclaimerBanner locale={locale} />
       </div>
-      <AdSlot />
+
       <div className="article-body mt-8 rounded-3xl bg-white p-6 shadow-soft ring-1 ring-slate-100 sm:p-8">
         {article.content.map((block, index) => {
-          if (block.type === "heading") return <h2 key={index}>{block.text}</h2>;
-          if (block.type === "list") {
-            return (
-              <ul key={index}>
+          let renderedBlock: JSX.Element;
+          if (block.type === "heading") renderedBlock = <h2>{block.text}</h2>;
+          else if (block.type === "list") {
+            renderedBlock = (
+              <ul>
                 {block.items.map((item) => (
                   <li key={item}>{item}</li>
                 ))}
               </ul>
             );
+          } else {
+            renderedBlock = <p>{block.text}</p>;
           }
-          return <p key={index}>{block.text}</p>;
+
+          return (
+            <div key={index}>
+              {renderedBlock}
+              {index === adAfterIndex ? (
+                <div className="my-8">
+                  <AdSlot />
+                </div>
+              ) : null}
+            </div>
+          );
         })}
       </div>
-      <AdSlot />
+
       <div className="mt-8">
         <ConsultationCTA locale={locale} />
       </div>
