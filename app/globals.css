@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #f8fafc;
+  color: #172033;
+}
+
+.article-body p {
+  margin-bottom: 1.15rem;
+  line-height: 1.85;
+}
+
+.article-body h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.5rem;
+  font-weight: 750;
+  color: #172033;
+}
+
+.article-body ul {
+  margin: 1rem 0 1rem 1.25rem;
+  list-style: disc;
+}
+
+.article-body li {
+  margin-bottom: 0.5rem;
+  line-height: 1.75;
+}
