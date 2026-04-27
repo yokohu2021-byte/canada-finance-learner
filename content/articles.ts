@@ -1948,6 +1948,2212 @@ export const articles: Article[] = [
         ]
       }
     }
+  },
+  {
+    "slug": "ai-tools-for-financial-learners-canada",
+    "date": "2026-04-26",
+    "category": "Investing Learning Notes",
+    "translations": {
+      "en": {
+        "title": "How AI Can Help Financial Learners Without Replacing Judgment",
+        "excerpt": "A practical look at where AI can help with financial learning, and where human judgment, licensed advice, and verification still matter.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "AI is becoming a normal part of how people learn. A beginner can ask an AI tool to explain TFSA room, summarize a bank product page, compare unfamiliar terms, or turn a dense article into plain language. That can be useful. The mistake is to confuse faster explanation with personal financial advice."
+          },
+          {
+            "type": "paragraph",
+            "text": "For financial learners in Canada, AI is best used as a study assistant. It can organize information, help you ask better questions, and reduce the fear of unfamiliar language. It should not decide what account you should open, what product you should buy, or how much risk you should take."
+          },
+          {
+            "type": "heading",
+            "text": "Where AI can be genuinely helpful"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Translating financial language into plain English.",
+              "Creating checklists before meeting a financial advisor.",
+              "Explaining the difference between account types, fees, taxes, and investment products.",
+              "Summarizing public documents such as Fund Facts or ETF Facts.",
+              "Helping newcomers prepare questions before a bank or advisor meeting."
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "Where AI becomes risky"
+          },
+          {
+            "type": "paragraph",
+            "text": "AI can sound confident even when the answer is incomplete. It may miss current tax rules, account restrictions, product details, or province specific context. It may also give an answer that feels personalized even when it has not assessed your income, debt, family situation, time horizon, tax status, or risk capacity."
+          },
+          {
+            "type": "paragraph",
+            "text": "That matters because financial decisions often connect several systems at once. A question about buying U.S. stocks, for example, is not only an investing question. It may involve currency conversion, brokerage fees, tax forms, withholding tax, registered account rules, and your personal timeline."
+          },
+          {
+            "type": "heading",
+            "text": "A useful rule for beginners"
+          },
+          {
+            "type": "paragraph",
+            "text": "Use AI to understand the vocabulary. Use official sources to verify the rules. Use a licensed professional for personal recommendations. This three step approach keeps AI in the right role."
+          },
+          {
+            "type": "heading",
+            "text": "Questions to ask after using AI"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Did I verify this with an official source or institution?",
+              "Is this general education, or does it sound like personal advice?",
+              "Does the answer depend on my tax situation or account type?",
+              "Could a fee, penalty, or tax rule change the conclusion?",
+              "Should this question be discussed with a licensed professional before I act?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "AI can make financial learning less intimidating. The value is not that it makes decisions for you. The value is that it helps you become better prepared before you speak with a real professional or read official documents."
+          },
+          {
+            "type": "paragraph",
+            "text": "Source note: This article is educational only. It uses general principles from Canadian investor education and consumer protection guidance, including the need to verify registration and understand product documents before investing."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment l’IA peut aider les apprenants en finance sans remplacer le jugement",
+        "excerpt": "Un regard pratique sur les usages utiles de l’IA en apprentissage financier, et sur les limites qui exigent vérification et conseil professionnel.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "L’IA devient un outil courant pour apprendre. Une personne débutante peut lui demander d’expliquer le CELI, de résumer une page bancaire, de comparer des termes inconnus ou de simplifier un document dense. Cela peut aider. L’erreur serait de confondre une explication rapide avec un conseil financier personnel."
+          },
+          {
+            "type": "paragraph",
+            "text": "Pour les apprenants au Canada, l’IA doit surtout servir d’assistant d’étude. Elle peut organiser l’information, aider à formuler de meilleures questions et réduire la peur du vocabulaire financier. Elle ne devrait pas décider quel compte ouvrir, quel produit acheter ou quel niveau de risque accepter."
+          },
+          {
+            "type": "heading",
+            "text": "Ce que l’IA peut bien faire"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Reformuler le langage financier en termes simples.",
+              "Préparer une liste de questions avant une rencontre avec un conseiller.",
+              "Expliquer les différences entre comptes, frais, fiscalité et produits de placement.",
+              "Résumer des documents publics comme l’aperçu du fonds ou l’aperçu du FNB.",
+              "Aider les nouveaux arrivants à se préparer avant un rendez-vous bancaire."
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "Là où l’IA devient risquée"
+          },
+          {
+            "type": "paragraph",
+            "text": "L’IA peut sembler sûre d’elle même lorsqu’une réponse est incomplète. Elle peut manquer une règle fiscale récente, une restriction de compte, un détail de produit ou un contexte provincial. Elle peut aussi produire une réponse qui paraît personnalisée sans connaître votre revenu, vos dettes, votre famille, votre horizon, votre situation fiscale ou votre capacité à prendre des risques."
+          },
+          {
+            "type": "paragraph",
+            "text": "Une question sur l’achat d’actions américaines, par exemple, ne concerne pas seulement l’investissement. Elle peut toucher le change, les frais de courtage, les formulaires fiscaux, les retenues à la source, les comptes enregistrés et votre horizon personnel."
+          },
+          {
+            "type": "heading",
+            "text": "Une règle utile pour débuter"
+          },
+          {
+            "type": "paragraph",
+            "text": "Utilisez l’IA pour comprendre le vocabulaire. Utilisez les sources officielles pour vérifier les règles. Utilisez un professionnel agréé pour les recommandations personnelles."
+          },
+          {
+            "type": "heading",
+            "text": "Questions à se poser après avoir utilisé l’IA"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Ai-je vérifié cette information auprès d’une source officielle?",
+              "S’agit-il d’éducation générale ou d’un conseil personnel?",
+              "La réponse dépend-elle de mon type de compte ou de ma situation fiscale?",
+              "Un frais, une pénalité ou une règle fiscale pourrait-il changer la conclusion?",
+              "Devrais-je parler à un professionnel agréé avant d’agir?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "L’IA peut rendre l’apprentissage financier moins intimidant. Sa valeur n’est pas de décider à votre place, mais de mieux vous préparer avant de consulter un professionnel ou de lire des documents officiels."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note de source : cet article est éducatif seulement et s’appuie sur des principes généraux d’éducation des investisseurs et de protection des consommateurs au Canada."
+          }
+        ]
+      },
+      "zh": {
+        "title": "AI 如何帮助金融学习者，但不能替代判断力",
+        "excerpt": "用现实角度解释 AI 在金融学习中的价值和边界，适合加拿大新移民、小生意主和金融自学者阅读。",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "AI 正在变成普通人学习金融知识的工具。你可以让它解释 TFSA，整理银行产品页面，比较陌生概念，或者把复杂文件改写成容易理解的语言。这些都有价值。但一个重要边界是：更快理解信息，不等于获得了个人金融建议。"
+          },
+          {
+            "type": "paragraph",
+            "text": "对加拿大金融学习者来说，AI 最适合作为学习助手。它可以帮你整理知识、准备问题、降低对专业词汇的恐惧。但它不应该替你决定开什么账户、买什么产品、承担多少风险。"
+          },
+          {
+            "type": "heading",
+            "text": "AI 真正有用的地方"
+          },
+          {
+            "type": "list",
+            "items": [
+              "把金融术语翻译成普通语言。",
+              "帮你在见金融顾问前整理问题清单。",
+              "解释账户、费用、税务和投资产品之间的区别。",
+              "帮助阅读 Fund Facts 或 ETF Facts 等公开文件。",
+              "帮助新移民在银行或顾问会议前做准备。"
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "AI 容易出问题的地方"
+          },
+          {
+            "type": "paragraph",
+            "text": "AI 有时会用很自信的语气给出不完整答案。它可能遗漏最新税务规则、账户限制、产品细节或省份差异。它也可能给出看似个性化的答案，但并没有真正了解你的收入、债务、家庭情况、时间周期、税务身份和风险承受能力。"
+          },
+          {
+            "type": "paragraph",
+            "text": "比如“在加拿大如何购买美国股票”这个问题，并不只是投资问题。它可能涉及汇率、券商费用、税务表格、美国股息预扣税、注册账户规则和个人投资周期。"
+          },
+          {
+            "type": "heading",
+            "text": "一个适合新手的使用原则"
+          },
+          {
+            "type": "paragraph",
+            "text": "用 AI 理解词汇，用官方来源核对规则，用持证专业人士处理个人化判断。这个顺序能让 AI 回到正确的位置。"
+          },
+          {
+            "type": "heading",
+            "text": "使用 AI 后可以问自己"
+          },
+          {
+            "type": "list",
+            "items": [
+              "这个信息是否通过官方来源或机构页面核对过？",
+              "这是一般知识，还是已经像个人建议？",
+              "答案是否取决于我的账户类型或税务情况？",
+              "费用、罚金或税务规则是否可能改变结论？",
+              "在行动前是否应该咨询持证金融人士？"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "AI 可以让金融学习更容易开始。但它真正的价值不是替你做决定，而是让你在阅读资料或咨询专业人士之前，准备得更清楚。"
+          },
+          {
+            "type": "paragraph",
+            "text": "资料说明：本文仅用于教育和信息交流，基于加拿大投资者教育和消费者保护的一般原则，不构成个人金融建议。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "canadians-buy-us-stocks-beginner-guide",
+    "date": "2026-04-26",
+    "category": "Canada Finance Basics",
+    "translations": {
+      "en": {
+        "title": "How Canadians Can Start Learning About Buying U.S. Stocks",
+        "excerpt": "A beginner reference on accounts, currency, tax forms, and questions Canadians should understand before trading U.S. listed securities.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Many Canadians become interested in U.S. stocks because they recognize the companies, use the products, or hear about the U.S. market in the news. The practical process can look simple: open a brokerage account, convert Canadian dollars to U.S. dollars, and place an order. The learning behind that process is less simple."
+          },
+          {
+            "type": "paragraph",
+            "text": "This article does not recommend buying U.S. stocks. It explains the basic topics a Canadian learner should understand before making decisions or speaking with a licensed professional."
+          },
+          {
+            "type": "heading",
+            "text": "Start with the account type"
+          },
+          {
+            "type": "paragraph",
+            "text": "A Canadian investor may encounter U.S. securities in different account types, such as a non-registered account, TFSA, RRSP, FHSA, or other registered plans, depending on eligibility and the platform. The account type matters because tax treatment, contribution room, withdrawals, and reporting can differ."
+          },
+          {
+            "type": "paragraph",
+            "text": "A beginner mistake is to focus only on the stock ticker and ignore the account. The same U.S. security may create different practical considerations depending on where it is held."
+          },
+          {
+            "type": "heading",
+            "text": "Understand currency before performance"
+          },
+          {
+            "type": "paragraph",
+            "text": "If you buy a U.S. listed stock, the price is usually quoted in U.S. dollars. A Canadian investor who earns and spends in Canadian dollars also has currency exposure. The investment can rise in U.S. dollar terms while the Canadian dollar return looks different because of exchange rate movement."
+          },
+          {
+            "type": "paragraph",
+            "text": "Currency conversion fees also matter. Some platforms convert automatically. Others let users hold U.S. dollars. Some investors learn about methods such as journaling shares, but that requires platform specific knowledge and should not be treated as a beginner shortcut."
+          },
+          {
+            "type": "heading",
+            "text": "Tax forms and withholding"
+          },
+          {
+            "type": "paragraph",
+            "text": "Canadian residents who receive U.S. source income may be asked by a broker to complete tax documentation such as Form W-8BEN. The IRS explains that Form W-8BEN is provided to a withholding agent or payer by a foreign individual who is the beneficial owner of an amount subject to withholding. The form is not a trading strategy. It is part of tax status documentation."
+          },
+          {
+            "type": "paragraph",
+            "text": "U.S. dividends and foreign tax treatment can be different across accounts and circumstances. This is a topic for verification with the brokerage, official tax guidance, or a tax professional."
+          },
+          {
+            "type": "heading",
+            "text": "Questions to ask before trading"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Does this platform allow trading in U.S. listed securities?",
+              "Can I hold U.S. dollars, or will every trade trigger currency conversion?",
+              "What are the commission, spread, and foreign exchange costs?",
+              "What tax slips or reports will I receive?",
+              "Does the account type create special rules or limitations?",
+              "Am I buying because I understand the business, or because the name is familiar?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "The main point is not that Canadians cannot access U.S. markets. Many can. The point is that access is not the same as understanding. The account, currency, tax documentation, fees, and personal risk profile all matter."
+          },
+          {
+            "type": "paragraph",
+            "text": "Source note: This article references public IRS information on Form W-8BEN and general Canadian investor education. It is not tax, legal, or investment advice."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment les Canadiens peuvent commencer à comprendre l’achat d’actions américaines",
+        "excerpt": "Un repère pour débutants sur les comptes, la devise, les formulaires fiscaux et les questions à poser avant d’acheter des titres cotés aux États-Unis.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Beaucoup de Canadiens s’intéressent aux actions américaines parce qu’ils connaissent les entreprises, utilisent leurs produits ou entendent souvent parler du marché américain. Le processus pratique peut sembler simple : ouvrir un compte de courtage, convertir des dollars canadiens en dollars américains et passer un ordre. L’apprentissage derrière ce processus est moins simple."
+          },
+          {
+            "type": "paragraph",
+            "text": "Cet article ne recommande pas l’achat d’actions américaines. Il explique les sujets de base qu’un apprenant canadien devrait comprendre avant de prendre une décision ou de parler à un professionnel agréé."
+          },
+          {
+            "type": "heading",
+            "text": "Commencer par le type de compte"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un investisseur canadien peut détenir des titres américains dans différents types de comptes, comme un compte non enregistré, un CELI, un REER, un CELIAPP ou d’autres régimes, selon l’admissibilité et la plateforme. Le type de compte compte beaucoup, car la fiscalité, les droits de cotisation, les retraits et les déclarations peuvent différer."
+          },
+          {
+            "type": "paragraph",
+            "text": "Une erreur fréquente consiste à regarder seulement le symbole boursier et à oublier le compte. Le même titre américain peut avoir des implications pratiques différentes selon l’endroit où il est détenu."
+          },
+          {
+            "type": "heading",
+            "text": "Comprendre la devise avant le rendement"
+          },
+          {
+            "type": "paragraph",
+            "text": "Une action cotée aux États-Unis est généralement libellée en dollars américains. Un investisseur qui gagne et dépense en dollars canadiens a donc aussi une exposition au taux de change. Le rendement en dollars américains peut être différent du rendement exprimé en dollars canadiens."
+          },
+          {
+            "type": "paragraph",
+            "text": "Les frais de conversion de devise comptent aussi. Certaines plateformes convertissent automatiquement. D’autres permettent de détenir des dollars américains. Certaines méthodes de conversion demandent une compréhension précise de la plateforme et ne devraient pas être traitées comme un raccourci pour débutants."
+          },
+          {
+            "type": "heading",
+            "text": "Formulaires fiscaux et retenues"
+          },
+          {
+            "type": "paragraph",
+            "text": "Les résidents canadiens recevant certains revenus de source américaine peuvent être invités par leur courtier à remplir des documents fiscaux comme le formulaire W-8BEN. L’IRS explique que le W-8BEN est fourni à un payeur ou agent de retenue par une personne étrangère qui est bénéficiaire effectif d’un montant soumis à retenue."
+          },
+          {
+            "type": "paragraph",
+            "text": "Les dividendes américains et leur traitement fiscal peuvent varier selon le type de compte et la situation. Ce point doit être vérifié auprès du courtier, de sources officielles ou d’un professionnel fiscal."
+          },
+          {
+            "type": "heading",
+            "text": "Questions à poser avant de négocier"
+          },
+          {
+            "type": "list",
+            "items": [
+              "La plateforme permet-elle d’acheter des titres cotés aux États-Unis?",
+              "Puis-je détenir des dollars américains?",
+              "Quels sont les frais de commission, de conversion et d’écart de change?",
+              "Quels feuillets ou rapports fiscaux recevrai-je?",
+              "Le type de compte crée-t-il des règles particulières?",
+              "Est-ce que j’achète parce que je comprends l’entreprise ou seulement parce que le nom est connu?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "L’essentiel n’est pas que les Canadiens ne puissent pas accéder aux marchés américains. Beaucoup le peuvent. L’essentiel est que l’accès ne remplace pas la compréhension."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note de source : cet article s’appuie sur l’information publique de l’IRS au sujet du W-8BEN et sur l’éducation générale des investisseurs au Canada. Il ne constitue pas un conseil fiscal, juridique ou en investissement."
+          }
+        ]
+      },
+      "zh": {
+        "title": "加拿大居民如何开始理解购买美国股票",
+        "excerpt": "用新手视角解释账户、美元、税务表格、股息预扣税和交易前需要问的问题，不构成购买建议。",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "很多加拿大居民会对美国股票感兴趣，因为这些公司名字熟悉，产品常用，新闻曝光度高。实际操作看起来似乎很简单：开一个券商账户，把加元换成美元，然后下单。但真正需要学习的部分，比这个流程复杂得多。"
+          },
+          {
+            "type": "paragraph",
+            "text": "本文不建议购买美国股票，只作为加拿大金融学习者理解相关概念的参考。"
+          },
+          {
+            "type": "heading",
+            "text": "先看账户类型"
+          },
+          {
+            "type": "paragraph",
+            "text": "加拿大投资者可能在非注册账户、TFSA、RRSP、FHSA 或其他符合条件的账户中接触美国证券，具体取决于平台和个人资格。账户类型很重要，因为税务处理、供款额度、提款规则和报税文件都可能不同。"
+          },
+          {
+            "type": "paragraph",
+            "text": "新手常见错误是只看股票代码，而忽略账户结构。同一只美国证券，放在不同账户里，可能产生不同的实际问题。"
+          },
+          {
+            "type": "heading",
+            "text": "先理解货币，再看收益"
+          },
+          {
+            "type": "paragraph",
+            "text": "美国上市股票通常以美元报价。加拿大居民如果收入和消费主要是加元，就同时面对汇率影响。一项投资用美元看可能上涨，但换回加元后的结果可能因为汇率变化而不同。"
+          },
+          {
+            "type": "paragraph",
+            "text": "货币转换费用也很重要。有的平台会自动换汇，有的平台允许持有美元。有些投资者会学习更复杂的换汇方法，但这需要理解具体平台规则，不适合作为新手捷径。"
+          },
+          {
+            "type": "heading",
+            "text": "税务表格和预扣税"
+          },
+          {
+            "type": "paragraph",
+            "text": "加拿大居民收到美国来源收入时，券商可能会要求填写 W-8BEN 等税务文件。IRS 说明，W-8BEN 是外国个人作为相关收入的受益所有人，提交给付款方或预扣代理人的表格。它不是投资策略，而是税务身份文件。"
+          },
+          {
+            "type": "paragraph",
+            "text": "美国股息和外国税务处理，会因为账户类型和个人情况不同而有差异。这类问题应向券商、官方税务来源或税务专业人士确认。"
+          },
+          {
+            "type": "heading",
+            "text": "交易前可以问的问题"
+          },
+          {
+            "type": "list",
+            "items": [
+              "这个平台是否支持美国上市证券交易？",
+              "我能否持有美元，还是每笔交易都会自动换汇？",
+              "佣金、点差和外汇费用分别是多少？",
+              "我会收到哪些税务文件？",
+              "账户类型是否有特殊限制？",
+              "我是因为理解公司而买，还是只因为名字熟悉？"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "重点不是加拿大居民不能买美国股票，很多人可以。重点是，能买不等于已经理解。账户、汇率、税务文件、费用和个人风险承受能力都需要提前学习。"
+          },
+          {
+            "type": "paragraph",
+            "text": "资料说明：本文参考 IRS 关于 W-8BEN 的公开说明及加拿大投资者教育的一般原则，不构成税务、法律或投资建议。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "stock-dividends-beginner-guide",
+    "date": "2026-04-26",
+    "category": "Investing Learning Notes",
+    "translations": {
+      "en": {
+        "title": "What Are Stock Dividends? A Beginner Guide for Financial Learners",
+        "excerpt": "A plain language explanation of dividends, dividend yield, payout dates, and why dividends are not the same as guaranteed income.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "A dividend is a payment a company may choose to make to shareholders. For beginners, dividends can feel easier to understand than price movement because cash payments look concrete. But a dividend is not a promise, a salary, or a guaranteed return."
+          },
+          {
+            "type": "paragraph",
+            "text": "Companies usually pay dividends from profits or available cash flow, but the board of directors decides whether a dividend is declared. A company can increase, reduce, suspend, or cancel dividends depending on business conditions and capital needs."
+          },
+          {
+            "type": "heading",
+            "text": "Dividend yield is not the whole story"
+          },
+          {
+            "type": "paragraph",
+            "text": "Dividend yield is often shown as an annual dividend divided by the share price. A high yield can look attractive, but it may also reflect a falling share price, business stress, or market concern about the sustainability of the payout."
+          },
+          {
+            "type": "paragraph",
+            "text": "A beginner should avoid treating the highest yield as the best choice. Yield is one number. It does not explain debt, cash flow, payout ratio, industry pressure, or whether the company can maintain the dividend."
+          },
+          {
+            "type": "heading",
+            "text": "Important dividend dates"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Declaration date: the company announces the dividend.",
+              "Ex-dividend date: buyers after this date usually do not receive the next dividend.",
+              "Record date: the company determines which shareholders are on record.",
+              "Payment date: the dividend is paid."
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "Dividends and total return"
+          },
+          {
+            "type": "paragraph",
+            "text": "A stock investment return can come from dividends, price changes, or both. A dividend payment may feel separate, but the market price often adjusts around the ex-dividend date. Long term investors usually look at total return rather than dividend income alone."
+          },
+          {
+            "type": "heading",
+            "text": "Tax and account context"
+          },
+          {
+            "type": "paragraph",
+            "text": "The tax treatment of dividends can depend on whether the dividend is Canadian or foreign, and whether the security is held in a registered or non-registered account. This is one reason dividend investing should not be separated from account planning."
+          },
+          {
+            "type": "heading",
+            "text": "Beginner questions"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Is the dividend supported by earnings and cash flow?",
+              "Has the company maintained or changed the dividend during stress periods?",
+              "Is the yield unusually high compared with similar companies?",
+              "How much debt does the company carry?",
+              "Does this fit my need for income, growth, or stability?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Dividends can be part of a financial learning journey, but they should not be treated as free money. They are one part of business ownership and must be studied with the company, account, tax, and risk context."
+          },
+          {
+            "type": "paragraph",
+            "text": "Source note: This article is educational only and does not recommend any dividend stock or strategy."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Que sont les dividendes d’actions? Guide pour débutants",
+        "excerpt": "Une explication simple des dividendes, du rendement en dividendes, des dates importantes et des limites de cette notion.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Un dividende est un paiement qu’une société peut choisir de verser à ses actionnaires. Pour les débutants, les dividendes semblent parfois plus faciles à comprendre que les variations de prix, car un paiement en argent paraît concret. Pourtant, un dividende n’est pas une promesse, un salaire ni un rendement garanti."
+          },
+          {
+            "type": "paragraph",
+            "text": "Les sociétés versent généralement des dividendes à partir de profits ou de flux de trésorerie disponibles, mais c’est le conseil d’administration qui décide. Une société peut augmenter, réduire, suspendre ou annuler un dividende selon sa situation."
+          },
+          {
+            "type": "heading",
+            "text": "Le rendement en dividendes ne suffit pas"
+          },
+          {
+            "type": "paragraph",
+            "text": "Le rendement en dividendes est souvent calculé comme le dividende annuel divisé par le prix de l’action. Un rendement élevé peut sembler attirant, mais il peut aussi refléter une baisse du prix, une pression sur l’entreprise ou des doutes sur la durabilité du paiement."
+          },
+          {
+            "type": "paragraph",
+            "text": "Un débutant ne devrait pas considérer le rendement le plus élevé comme le meilleur choix. Ce chiffre ne montre pas la dette, les flux de trésorerie, le taux de distribution, la pression sectorielle ou la capacité de maintenir le dividende."
+          },
+          {
+            "type": "heading",
+            "text": "Dates importantes"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Date de déclaration : la société annonce le dividende.",
+              "Date ex-dividende : les acheteurs après cette date ne reçoivent généralement pas le prochain dividende.",
+              "Date d’inscription : la société détermine les actionnaires inscrits.",
+              "Date de paiement : le dividende est versé."
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "Dividendes et rendement total"
+          },
+          {
+            "type": "paragraph",
+            "text": "Le rendement d’une action peut provenir des dividendes, du changement de prix ou des deux. Un paiement de dividende semble séparé, mais le prix du marché peut s’ajuster autour de la date ex-dividende. Les investisseurs à long terme regardent souvent le rendement total."
+          },
+          {
+            "type": "heading",
+            "text": "Fiscalité et type de compte"
+          },
+          {
+            "type": "paragraph",
+            "text": "Le traitement fiscal dépend du type de dividende, canadien ou étranger, et du compte utilisé. C’est pourquoi les dividendes ne devraient pas être analysés sans tenir compte du compte et de la fiscalité."
+          },
+          {
+            "type": "heading",
+            "text": "Questions utiles"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Le dividende est-il soutenu par les bénéfices et les flux de trésorerie?",
+              "La société a-t-elle maintenu le dividende en période difficile?",
+              "Le rendement est-il anormalement élevé?",
+              "Quel est le niveau d’endettement?",
+              "Cela correspond-il à un besoin de revenu, de croissance ou de stabilité?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Les dividendes peuvent faire partie de l’apprentissage financier, mais ils ne sont pas de l’argent gratuit. Ils doivent être compris dans le contexte de l’entreprise, du compte, de la fiscalité et du risque."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note de source : article éducatif seulement. Il ne recommande aucune action ni stratégie de dividendes."
+          }
+        ]
+      },
+      "zh": {
+        "title": "什么是股票分红？金融新手需要先理解的基础",
+        "excerpt": "用普通语言解释股票分红、股息率、除息日和总回报，并说明分红不等于稳定保证收入。",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "股票分红是公司可能选择支付给股东的一部分现金或价值。对新手来说，分红比股价波动更容易理解，因为它看起来像真实收到的钱。但分红不是承诺，不是工资，也不是保证收益。"
+          },
+          {
+            "type": "paragraph",
+            "text": "公司通常从利润或可用现金流中支付分红，但是否分红由董事会决定。公司可以提高、降低、暂停甚至取消分红，这取决于经营情况和资金需求。"
+          },
+          {
+            "type": "heading",
+            "text": "股息率不是全部"
+          },
+          {
+            "type": "paragraph",
+            "text": "股息率通常等于年度分红除以股价。高股息率看起来很吸引人，但也可能是因为股价大幅下跌、公司经营承压，或市场担心这笔分红不可持续。"
+          },
+          {
+            "type": "paragraph",
+            "text": "新手不应该简单认为股息率最高就是最好。股息率只是一个数字，不能说明债务、现金流、派息率、行业压力或公司是否有能力持续分红。"
+          },
+          {
+            "type": "heading",
+            "text": "几个常见日期"
+          },
+          {
+            "type": "list",
+            "items": [
+              "宣布日：公司宣布分红。",
+              "除息日：通常在这天之后买入的人，拿不到下一次分红。",
+              "登记日：公司确认哪些股东有资格收到分红。",
+              "支付日：分红实际发放。"
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "分红和总回报"
+          },
+          {
+            "type": "paragraph",
+            "text": "股票投资回报可能来自分红，也可能来自价格变化，或者两者都有。分红看起来是单独发放的现金，但股票价格在除息日前后也可能调整。长期投资学习者通常要看总回报，而不是只看分红金额。"
+          },
+          {
+            "type": "heading",
+            "text": "账户和税务背景"
+          },
+          {
+            "type": "paragraph",
+            "text": "分红的税务处理，可能取决于它是加拿大分红还是外国分红，也取决于它放在注册账户还是非注册账户里。所以学习分红，不能脱离账户结构和税务背景。"
+          },
+          {
+            "type": "heading",
+            "text": "新手可以问的问题"
+          },
+          {
+            "type": "list",
+            "items": [
+              "分红是否由盈利和现金流支持？",
+              "公司在压力时期是否维持过分红？",
+              "股息率是否明显高于同类公司？",
+              "公司债务水平如何？",
+              "这是否符合我的收入、增长或稳定性目标？"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "分红可以是金融学习的一部分，但不应该被理解成免费钱。它是公司所有权的一部分，需要结合公司、账户、税务和风险一起理解。"
+          },
+          {
+            "type": "paragraph",
+            "text": "资料说明：本文仅用于教育和信息交流，不推荐任何分红股票或投资策略。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "stable-dividend-stocks-how-to-think",
+    "date": "2026-04-26",
+    "category": "Investing Learning Notes",
+    "translations": {
+      "en": {
+        "title": "Dividend Stocks in Canada: How to Think About Stability Without Chasing Yield",
+        "excerpt": "A reference article on dividend stability, yield traps, payout ratios, and why stable income investing still requires risk assessment.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Many people ask how to buy stable dividend stocks. The question is understandable. Dividends feel practical, and the idea of receiving regular cash from investments is attractive. But the word stable needs careful handling. A stock can have a long dividend history and still carry business risk, market risk, interest rate risk, and valuation risk."
+          },
+          {
+            "type": "paragraph",
+            "text": "This article is not a list of stocks to buy. It is a framework for evaluating the topic before speaking with a professional or doing further research."
+          },
+          {
+            "type": "heading",
+            "text": "Start with the business, not the dividend"
+          },
+          {
+            "type": "paragraph",
+            "text": "A dividend is only as strong as the business supporting it. A company with reliable cash flow, reasonable debt, durable demand, and disciplined capital allocation may be better positioned to maintain dividends than a company paying a high yield while its business weakens."
+          },
+          {
+            "type": "heading",
+            "text": "Beware of the yield trap"
+          },
+          {
+            "type": "paragraph",
+            "text": "A yield trap happens when a dividend yield looks unusually high because the share price has fallen. The high yield may attract beginners, but the market may be pricing in risk that the dividend could be reduced. High yield is not automatically high quality."
+          },
+          {
+            "type": "heading",
+            "text": "Look at payout ratio and cash flow"
+          },
+          {
+            "type": "paragraph",
+            "text": "The payout ratio compares dividends to earnings or cash flow. If a company regularly pays out more than it can sustainably earn or generate, the dividend may become vulnerable. The exact interpretation depends on the industry, but the question is always similar: is the payment supported by the business?"
+          },
+          {
+            "type": "heading",
+            "text": "Dividend history helps, but it is not proof"
+          },
+          {
+            "type": "paragraph",
+            "text": "A long history of paying dividends can signal discipline and shareholder orientation. It does not guarantee the future. Industries change, debt costs change, consumer behavior changes, and regulation can change. History is evidence, not protection."
+          },
+          {
+            "type": "heading",
+            "text": "Sector concentration"
+          },
+          {
+            "type": "paragraph",
+            "text": "Dividend focused investors often end up concentrated in banks, utilities, telecoms, pipelines, REITs, or other income oriented sectors. Concentration can create hidden risk. A portfolio can look diversified by company name while still depending on similar economic forces."
+          },
+          {
+            "type": "heading",
+            "text": "Questions before considering dividend stocks"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Is the yield unusually high for a reason?",
+              "Is the dividend supported by free cash flow or earnings?",
+              "How sensitive is the company to rates, debt, or regulation?",
+              "Am I diversified beyond one sector?",
+              "Do I need income today, or am I still in a growth phase?",
+              "Would a dividend cut damage my plan?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "A stable dividend approach is not about finding magic stocks. It is about understanding business quality, payout sustainability, portfolio construction, and your own need for income. For many beginners, that conversation is better handled with a licensed advisor before committing capital."
+          },
+          {
+            "type": "paragraph",
+            "text": "Source note: This article is educational only and does not identify or recommend securities."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Actions à dividendes au Canada : penser à la stabilité sans courir après le rendement",
+        "excerpt": "Un cadre de réflexion sur la stabilité des dividendes, les pièges de rendement, les ratios de distribution et les risques.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Beaucoup de personnes demandent comment acheter des actions à dividendes stables. La question est compréhensible. Les dividendes paraissent concrets et l’idée de recevoir un revenu régulier est attirante. Mais le mot stable doit être utilisé avec prudence."
+          },
+          {
+            "type": "paragraph",
+            "text": "Cet article ne fournit pas une liste d’actions à acheter. Il propose un cadre de réflexion avant de faire des recherches ou de parler à un professionnel."
+          },
+          {
+            "type": "heading",
+            "text": "Commencer par l’entreprise, pas par le dividende"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un dividende dépend de l’entreprise qui le soutient. Une société avec des flux de trésorerie fiables, une dette raisonnable, une demande durable et une allocation de capital disciplinée peut être mieux placée qu’une société qui offre un rendement élevé pendant que ses activités se détériorent."
+          },
+          {
+            "type": "heading",
+            "text": "Attention au piège du rendement"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un piège de rendement apparaît lorsqu’un rendement en dividendes semble élevé parce que le prix de l’action a fortement baissé. Ce chiffre peut attirer les débutants, mais le marché peut anticiper un risque de réduction du dividende."
+          },
+          {
+            "type": "heading",
+            "text": "Regarder le ratio de distribution et les flux de trésorerie"
+          },
+          {
+            "type": "paragraph",
+            "text": "Le ratio de distribution compare les dividendes aux bénéfices ou aux flux de trésorerie. Si une société verse régulièrement plus que ce qu’elle peut soutenir, le dividende devient vulnérable."
+          },
+          {
+            "type": "heading",
+            "text": "L’historique aide, mais ne prouve pas l’avenir"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un long historique de dividendes peut indiquer une certaine discipline. Il ne garantit pas l’avenir. Les secteurs changent, les taux changent, les coûts d’endettement changent et la réglementation peut évoluer."
+          },
+          {
+            "type": "heading",
+            "text": "Concentration sectorielle"
+          },
+          {
+            "type": "paragraph",
+            "text": "Les investisseurs axés sur le dividende peuvent se retrouver concentrés dans les banques, services publics, télécommunications, pipelines, FPI ou autres secteurs orientés revenu. Cette concentration peut créer un risque caché."
+          },
+          {
+            "type": "heading",
+            "text": "Questions utiles"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Le rendement est-il élevé pour une raison préoccupante?",
+              "Le dividende est-il soutenu par les flux de trésorerie?",
+              "La société est-elle sensible aux taux, à la dette ou à la réglementation?",
+              "Le portefeuille dépend-il trop d’un secteur?",
+              "Ai-je besoin de revenu maintenant ou suis-je encore en phase de croissance?",
+              "Une baisse du dividende nuirait-elle à mon plan?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Une approche axée sur les dividendes stables ne consiste pas à trouver des actions magiques. Elle consiste à comprendre la qualité de l’entreprise, la durabilité du paiement et la construction du portefeuille."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note de source : article éducatif seulement. Il ne recommande aucun titre."
+          }
+        ]
+      },
+      "zh": {
+        "title": "加拿大分红股票：如何理解稳定性，而不是追逐高股息率",
+        "excerpt": "解释分红稳定性、股息陷阱、派息率、现金流和行业集中度，不提供具体股票推荐。",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "很多人会问：如何购买能稳定分红的股票。这个问题很现实。分红看起来具体，定期收到现金也很有吸引力。但“稳定”这个词需要谨慎理解。股票即使有长期分红历史，也仍然有经营风险、市场风险、利率风险和估值风险。"
+          },
+          {
+            "type": "paragraph",
+            "text": "本文不列出可以买的股票，只提供一个理解框架，帮助你在进一步研究或咨询持证人士前先建立基本判断。"
+          },
+          {
+            "type": "heading",
+            "text": "先看公司，而不是先看分红"
+          },
+          {
+            "type": "paragraph",
+            "text": "分红的基础是公司本身。现金流稳定、债务合理、需求长期存在、资本分配纪律较好的公司，通常比业务变弱但股息率很高的公司更值得进一步研究。"
+          },
+          {
+            "type": "heading",
+            "text": "小心股息率陷阱"
+          },
+          {
+            "type": "paragraph",
+            "text": "股息率陷阱指的是：股息率看起来很高，可能只是因为股价已经大幅下跌。高股息率会吸引新手，但市场可能已经在反映分红被削减的风险。高股息率不等于高质量。"
+          },
+          {
+            "type": "heading",
+            "text": "看派息率和现金流"
+          },
+          {
+            "type": "paragraph",
+            "text": "派息率是分红和盈利或现金流之间的关系。如果一家公司长期支付超过可持续能力的分红，未来分红就可能变得脆弱。不同行业的判断方式不同，但核心问题一样：这笔分红是否被业务支持。"
+          },
+          {
+            "type": "heading",
+            "text": "历史有参考价值，但不是保证"
+          },
+          {
+            "type": "paragraph",
+            "text": "长期分红历史可以说明公司过去有一定纪律，但不能保证未来。行业会变，利率会变，债务成本会变，消费行为和监管也会变。历史是证据，不是保护伞。"
+          },
+          {
+            "type": "heading",
+            "text": "行业集中度"
+          },
+          {
+            "type": "paragraph",
+            "text": "分红型投资者容易集中在银行、公用事业、电信、管道、REITs 等收入型行业。表面上看持有了很多公司，但底层可能受相似经济因素影响。"
+          },
+          {
+            "type": "heading",
+            "text": "考虑分红股票前可以问"
+          },
+          {
+            "type": "list",
+            "items": [
+              "股息率是否高得异常？",
+              "分红是否由自由现金流或盈利支持？",
+              "公司是否容易受利率、债务或监管影响？",
+              "组合是否过度集中在一个行业？",
+              "我现在真的需要现金收入，还是更需要长期增长？",
+              "如果公司削减分红，我的计划是否会受影响？"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "稳定分红并不是寻找神奇股票，而是理解公司质量、分红可持续性、组合结构和自己的现金流需求。对很多新手来说，在投入资金前和持证顾问讨论会更稳妥。"
+          },
+          {
+            "type": "paragraph",
+            "text": "资料说明：本文仅用于教育和信息交流，不识别或推荐任何证券。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "drip-dividend-reinvestment-plan-explained",
+    "date": "2026-04-26",
+    "category": "Investing Learning Notes",
+    "translations": {
+      "en": {
+        "title": "DRIP Explained: Reinvesting Dividends Without Confusing It with Guaranteed Growth",
+        "excerpt": "A beginner reference on dividend reinvestment plans, compounding, fractional shares, and why reinvestment still carries market risk.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "A DRIP, or dividend reinvestment plan, allows dividends to be used to buy more shares instead of being paid out as cash. The idea is simple: money generated by an investment is put back to work. For long term learners, this can be a useful way to understand compounding."
+          },
+          {
+            "type": "paragraph",
+            "text": "But reinvesting dividends does not remove risk. If the share price falls, the reinvested amount buys into the same market risk as any other purchase."
+          },
+          {
+            "type": "heading",
+            "text": "Why people like DRIPs"
+          },
+          {
+            "type": "list",
+            "items": [
+              "They can make investing more automatic.",
+              "They may reduce the temptation to spend small dividend payments.",
+              "They can increase the number of shares owned over time.",
+              "Some platforms support fractional reinvestment, while others do not."
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "What beginners should not assume"
+          },
+          {
+            "type": "paragraph",
+            "text": "A DRIP is not a guarantee of better performance. It is a process, not a prediction. If the underlying business performs poorly or the stock becomes overvalued, automatic reinvestment can keep adding to a weak position."
+          },
+          {
+            "type": "heading",
+            "text": "Cash income versus reinvestment"
+          },
+          {
+            "type": "paragraph",
+            "text": "Some investors want dividends as cash for living expenses. Others prefer reinvestment for long term accumulation. The better choice depends on goals, age, income, taxes, account type, and the overall portfolio."
+          },
+          {
+            "type": "heading",
+            "text": "Questions before using a DRIP"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Does my platform offer automatic dividend reinvestment for this security?",
+              "Will reinvestment create fractional shares or only whole shares?",
+              "Do I still want to buy more of this company at current prices?",
+              "Does this fit my broader portfolio allocation?",
+              "How will dividends be reported for tax purposes in this account?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "A DRIP can be helpful when it supports a clear plan. It becomes risky when automation replaces review. Reinvesting should still be connected to portfolio design and risk control."
+          },
+          {
+            "type": "paragraph",
+            "text": "Source note: This article is for education only and does not recommend using a DRIP for any specific security."
+          }
+        ]
+      },
+      "fr": {
+        "title": "DRIP expliqué : réinvestir les dividendes sans confondre avec une croissance garantie",
+        "excerpt": "Un repère pour comprendre les régimes de réinvestissement des dividendes, la capitalisation et les risques de marché.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Un DRIP, ou régime de réinvestissement des dividendes, permet d’utiliser les dividendes pour acheter plus d’actions au lieu de les recevoir en argent. L’idée est simple : le revenu généré est remis au travail."
+          },
+          {
+            "type": "paragraph",
+            "text": "Mais le réinvestissement ne supprime pas le risque. Si le prix baisse, le montant réinvesti participe au même risque de marché qu’un nouvel achat."
+          },
+          {
+            "type": "heading",
+            "text": "Pourquoi les gens aiment les DRIP"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Ils rendent l’investissement plus automatique.",
+              "Ils réduisent la tentation de dépenser de petits dividendes.",
+              "Ils peuvent augmenter le nombre d’actions détenues avec le temps.",
+              "Certaines plateformes permettent les fractions d’actions, d’autres non."
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "Ce qu’il ne faut pas supposer"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un DRIP ne garantit pas une meilleure performance. C’est un mécanisme, pas une prévision. Si l’entreprise se détériore ou devient chère, le réinvestissement automatique peut continuer à ajouter à une position fragile."
+          },
+          {
+            "type": "heading",
+            "text": "Revenu en argent ou réinvestissement"
+          },
+          {
+            "type": "paragraph",
+            "text": "Certains investisseurs veulent recevoir les dividendes pour financer des dépenses. D’autres préfèrent les réinvestir. Le choix dépend des objectifs, de l’âge, du revenu, de la fiscalité, du type de compte et du portefeuille."
+          },
+          {
+            "type": "heading",
+            "text": "Questions utiles"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Ma plateforme offre-t-elle le réinvestissement automatique?",
+              "Les fractions d’actions sont-elles possibles?",
+              "Ai-je encore envie d’acheter cette société au prix actuel?",
+              "Cela respecte-t-il mon allocation globale?",
+              "Comment les dividendes seront-ils déclarés fiscalement?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Un DRIP peut être utile lorsqu’il soutient un plan clair. Il devient risqué lorsque l’automatisation remplace l’examen."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note de source : article éducatif seulement. Il ne recommande aucun titre ni mécanisme particulier."
+          }
+        ]
+      },
+      "zh": {
+        "title": "DRIP 是什么：分红再投资不等于保证增长",
+        "excerpt": "解释分红再投资计划、复利感、零碎股和自动化风险，帮助新手避免把机制误认为收益保证。",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "DRIP 指 dividend reinvestment plan，也就是把收到的分红自动用于购买更多股份，而不是以现金形式拿出来。它的逻辑很简单：投资产生的钱继续投入市场。对长期学习者来说，这有助于理解复利。"
+          },
+          {
+            "type": "paragraph",
+            "text": "但分红再投资不会消除风险。如果股价下跌，自动再投资买入的仍然是同样的市场风险。"
+          },
+          {
+            "type": "heading",
+            "text": "为什么很多人喜欢 DRIP"
+          },
+          {
+            "type": "list",
+            "items": [
+              "它让投资过程更自动化。",
+              "它减少把小额分红花掉的冲动。",
+              "它可能随着时间增加持股数量。",
+              "有些平台支持零碎股再投资，有些只支持整股。"
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "新手不能误解的地方"
+          },
+          {
+            "type": "paragraph",
+            "text": "DRIP 不保证更好表现。它是一个流程，不是预测。如果公司基本面变弱，或者股价已经偏贵，自动再投资可能会持续加仓到一个并不理想的位置。"
+          },
+          {
+            "type": "heading",
+            "text": "现金收入还是再投资"
+          },
+          {
+            "type": "paragraph",
+            "text": "有些投资者需要分红作为生活现金流，有些人更适合长期累积。哪一种更合适，取决于目标、年龄、收入、税务、账户类型和整体组合。"
+          },
+          {
+            "type": "heading",
+            "text": "使用 DRIP 前可以问"
+          },
+          {
+            "type": "list",
+            "items": [
+              "我的平台是否支持这只证券自动分红再投资？",
+              "是否支持零碎股，还是只能买整股？",
+              "我是否仍愿意按当前价格继续买入这家公司？",
+              "这是否符合我的整体资产配置？",
+              "这个账户中的分红如何报税？"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "DRIP 在服务清晰计划时是工具，在替代审视时就可能变成风险。自动化不应该取代组合设计和风险控制。"
+          },
+          {
+            "type": "paragraph",
+            "text": "资料说明：本文仅用于教育和信息交流，不建议针对任何具体证券使用 DRIP。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "cad-usd-currency-risk-us-investing",
+    "date": "2026-04-26",
+    "category": "Canada Finance Basics",
+    "translations": {
+      "en": {
+        "title": "CAD, USD, and Currency Risk: What Canadians Should Know Before Buying U.S. Investments",
+        "excerpt": "A practical explanation of exchange rates, conversion fees, and currency exposure for Canadian learners considering U.S. investments.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "A Canadian who buys a U.S. investment is making two linked decisions. One is the investment decision. The other is the currency decision. Even if the company or fund performs as expected in U.S. dollars, the final result in Canadian dollars can be affected by the exchange rate."
+          },
+          {
+            "type": "paragraph",
+            "text": "This does not mean currency exposure is bad. It means it should be understood before performance is judged."
+          },
+          {
+            "type": "heading",
+            "text": "Exchange rate movement can change returns"
+          },
+          {
+            "type": "paragraph",
+            "text": "If the U.S. dollar strengthens against the Canadian dollar, a U.S. investment may look better in Canadian dollar terms. If the Canadian dollar strengthens, the same U.S. investment may look weaker after conversion. This can happen even when the underlying security has not changed much."
+          },
+          {
+            "type": "heading",
+            "text": "Conversion fees are different from exchange rates"
+          },
+          {
+            "type": "paragraph",
+            "text": "The market exchange rate is one thing. The rate your platform gives you is another. Banks and brokerages may include a spread or fee when converting between CAD and USD. Small percentage differences can matter when the amounts are large or when trading is frequent."
+          },
+          {
+            "type": "heading",
+            "text": "Holding USD can reduce repeated conversion"
+          },
+          {
+            "type": "paragraph",
+            "text": "Some platforms allow Canadian clients to hold U.S. dollars. This may reduce repeated conversion if the investor buys and sells U.S. securities often. Other platforms may convert automatically. Beginners should check the platform rules before assuming."
+          },
+          {
+            "type": "heading",
+            "text": "Currency hedged products"
+          },
+          {
+            "type": "paragraph",
+            "text": "Some funds use currency hedging to reduce exposure to exchange rate movement. Hedging can reduce one type of volatility, but it also has costs and may not behave exactly as beginners expect. Hedged and unhedged versions of a fund can produce different results."
+          },
+          {
+            "type": "heading",
+            "text": "Questions before buying U.S. investments"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Will I pay a currency conversion fee?",
+              "Can I hold U.S. dollars in this account?",
+              "Will dividends be paid in USD or converted to CAD?",
+              "Am I comfortable with currency movement affecting my return?",
+              "Is this a long term allocation or a short term trade?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Currency is not a small footnote for Canadians investing outside Canada. It is part of the investment experience. Understanding it early can prevent confusion later."
+          },
+          {
+            "type": "paragraph",
+            "text": "Source note: This article is educational only. Currency and tax outcomes should be checked with the relevant platform or professional."
+          }
+        ]
+      },
+      "fr": {
+        "title": "CAD, USD et risque de change : ce que les Canadiens devraient comprendre",
+        "excerpt": "Une explication pratique des taux de change, frais de conversion et exposition aux devises lorsqu’un Canadien envisage des placements américains.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Un Canadien qui achète un placement américain prend deux décisions liées. La première concerne le placement. La seconde concerne la devise. Même si le titre se comporte bien en dollars américains, le résultat en dollars canadiens peut être influencé par le taux de change."
+          },
+          {
+            "type": "paragraph",
+            "text": "Cela ne veut pas dire que le risque de change est mauvais. Cela veut dire qu’il doit être compris."
+          },
+          {
+            "type": "heading",
+            "text": "Le taux de change peut modifier le rendement"
+          },
+          {
+            "type": "paragraph",
+            "text": "Si le dollar américain se renforce face au dollar canadien, un placement américain peut sembler meilleur en dollars canadiens. Si le dollar canadien se renforce, le même placement peut sembler plus faible après conversion."
+          },
+          {
+            "type": "heading",
+            "text": "Les frais de conversion sont distincts du taux de change"
+          },
+          {
+            "type": "paragraph",
+            "text": "Le taux de marché est une chose. Le taux offert par une plateforme en est une autre. Les banques et courtiers peuvent inclure un écart ou des frais lorsqu’ils convertissent les devises."
+          },
+          {
+            "type": "heading",
+            "text": "Détenir des USD peut réduire les conversions répétées"
+          },
+          {
+            "type": "paragraph",
+            "text": "Certaines plateformes permettent aux clients canadiens de détenir des dollars américains. Cela peut réduire les conversions répétées. D’autres plateformes convertissent automatiquement. Il faut vérifier les règles."
+          },
+          {
+            "type": "heading",
+            "text": "Produits couverts contre le change"
+          },
+          {
+            "type": "paragraph",
+            "text": "Certains fonds utilisent une couverture de change pour réduire l’effet des taux de change. La couverture peut réduire une source de volatilité, mais elle a aussi des coûts et ne fonctionne pas toujours comme les débutants l’imaginent."
+          },
+          {
+            "type": "heading",
+            "text": "Questions utiles"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Vais-je payer des frais de conversion?",
+              "Puis-je détenir des dollars américains dans ce compte?",
+              "Les dividendes seront-ils payés en USD ou convertis en CAD?",
+              "Suis-je à l’aise avec l’effet du change sur le rendement?",
+              "S’agit-il d’une allocation à long terme ou d’une opération courte?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "La devise n’est pas un détail pour les Canadiens qui investissent à l’extérieur du Canada. Elle fait partie de l’expérience de placement."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note de source : article éducatif seulement. Les résultats liés aux devises et à la fiscalité doivent être vérifiés auprès de la plateforme ou d’un professionnel."
+          }
+        ]
+      },
+      "zh": {
+        "title": "加元、美元和汇率风险：加拿大居民买美国投资前要理解什么",
+        "excerpt": "解释汇率、换汇费用、美元账户和汇率对收益的影响，适合加拿大金融初学者。",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "加拿大居民购买美国投资时，其实同时做了两个决定：一个是投资决定，一个是货币决定。即使一只证券用美元计算表现不错，换回加元后的结果也可能受到汇率影响。"
+          },
+          {
+            "type": "paragraph",
+            "text": "这不代表汇率风险一定不好，而是说它不能被忽略。"
+          },
+          {
+            "type": "heading",
+            "text": "汇率变化会改变收益观感"
+          },
+          {
+            "type": "paragraph",
+            "text": "如果美元相对加元走强，美国投资用加元看可能更好。如果加元相对美元走强，同一项美国投资换回加元后可能看起来较弱。这可能发生在证券本身变化不大的情况下。"
+          },
+          {
+            "type": "heading",
+            "text": "换汇费用不等于市场汇率"
+          },
+          {
+            "type": "paragraph",
+            "text": "市场汇率是一回事，平台给你的成交汇率是另一回事。银行和券商在加元与美元转换时，可能包含点差或费用。金额较大或交易频繁时，小比例差异也会变得重要。"
+          },
+          {
+            "type": "heading",
+            "text": "能否持有美元很重要"
+          },
+          {
+            "type": "paragraph",
+            "text": "有些平台允许加拿大客户持有美元，这可能减少反复换汇。有些平台则会自动换汇。新手不要假设所有平台一样，交易前应确认规则。"
+          },
+          {
+            "type": "heading",
+            "text": "汇率对冲产品"
+          },
+          {
+            "type": "paragraph",
+            "text": "有些基金会使用汇率对冲，以减少汇率波动影响。对冲可以降低某一类波动，但也有成本，而且实际表现未必和新手想象完全一致。"
+          },
+          {
+            "type": "heading",
+            "text": "买美国投资前可以问"
+          },
+          {
+            "type": "list",
+            "items": [
+              "我是否会支付换汇费用？",
+              "这个账户能否持有美元？",
+              "分红是以美元支付，还是自动换成加元？",
+              "我是否接受汇率影响最终收益？",
+              "这是长期配置，还是短期交易？"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "对加拿大居民来说，投资海外资产时，货币不是小细节，而是投资体验的一部分。越早理解，后面越不容易困惑。"
+          },
+          {
+            "type": "paragraph",
+            "text": "资料说明：本文仅用于教育和信息交流，汇率和税务结果应以平台或专业人士说明为准。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "robo-advisor-vs-human-advisor-canada",
+    "date": "2026-04-26",
+    "category": "Canada Finance Basics",
+    "translations": {
+      "en": {
+        "title": "Robo Advisor vs. Human Advisor in Canada: What Beginners Should Compare",
+        "excerpt": "A practical comparison of digital portfolio services and human advice, focused on service scope, cost, suitability, and limitations.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Many beginners see robo advisors as a cheaper and simpler way to invest. Others prefer a human advisor because they want conversation, explanation, and accountability. The better question is not which is always better. The better question is what service you actually need."
+          },
+          {
+            "type": "heading",
+            "text": "What a robo advisor usually does"
+          },
+          {
+            "type": "paragraph",
+            "text": "A robo advisor typically uses an online questionnaire to recommend a model portfolio, often built with ETFs or similar funds. It may rebalance automatically and charge an ongoing fee. This can be useful for people who want a managed portfolio without selecting individual securities."
+          },
+          {
+            "type": "heading",
+            "text": "What a human advisor may add"
+          },
+          {
+            "type": "paragraph",
+            "text": "A human advisor may discuss broader goals, taxes, insurance, retirement income, business ownership, estate concerns, debt, and behaviour. The value is often less about selecting a product and more about connecting financial choices to real life."
+          },
+          {
+            "type": "heading",
+            "text": "Cost is only one comparison"
+          },
+          {
+            "type": "paragraph",
+            "text": "Robo services often advertise lower fees than traditional advice, but cost should be compared with scope. A cheaper service that does not answer your real question may not be enough. A more expensive service that only sells products may also not be enough."
+          },
+          {
+            "type": "heading",
+            "text": "Registration still matters"
+          },
+          {
+            "type": "paragraph",
+            "text": "In Canada, investors can check whether an individual or firm is registered through securities regulator tools. Registration does not guarantee a good fit, but checking registration is an important basic step before relying on investment advice."
+          },
+          {
+            "type": "heading",
+            "text": "Questions to compare"
+          },
+          {
+            "type": "list",
+            "items": [
+              "What exactly is included in the service?",
+              "Is advice limited to a model portfolio?",
+              "Who is responsible if my personal situation changes?",
+              "What fees will I pay directly or indirectly?",
+              "Is the individual or firm registered for the activity being offered?",
+              "Do I need planning, portfolio management, or basic education?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "For some beginners, a robo advisor may be enough for a simple portfolio. For others, especially people with business income, family complexity, debt, taxes, or insurance needs, human guidance may be more relevant. The right comparison starts with the problem, not the label."
+          },
+          {
+            "type": "paragraph",
+            "text": "Source note: This article is educational only. Always verify registration and service scope before engaging an advisor or platform."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Robot conseiller ou conseiller humain au Canada : que comparer?",
+        "excerpt": "Une comparaison pratique entre services numériques de portefeuille et conseil humain, avec attention aux coûts, limites et portée du service.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Beaucoup de débutants voient les robots conseillers comme une solution moins coûteuse et plus simple. D’autres préfèrent un conseiller humain pour parler, comprendre et être accompagnés. La meilleure question n’est pas de savoir lequel est toujours meilleur, mais quel service vous avez vraiment besoin."
+          },
+          {
+            "type": "heading",
+            "text": "Ce qu’un robot conseiller fait souvent"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un robot conseiller utilise généralement un questionnaire en ligne pour recommander un portefeuille modèle, souvent composé de FNB ou de fonds similaires. Il peut rééquilibrer automatiquement et facturer des frais continus."
+          },
+          {
+            "type": "heading",
+            "text": "Ce qu’un conseiller humain peut ajouter"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un conseiller humain peut discuter des objectifs, de la fiscalité, de l’assurance, de la retraite, de l’entreprise, de la dette et du comportement. La valeur ne se limite pas au choix d’un produit."
+          },
+          {
+            "type": "heading",
+            "text": "Le coût n’est qu’un élément"
+          },
+          {
+            "type": "paragraph",
+            "text": "Les services numériques affichent souvent des frais plus faibles. Mais le coût doit être comparé à la portée du service. Un service moins cher qui ne répond pas à la vraie question peut être insuffisant."
+          },
+          {
+            "type": "heading",
+            "text": "L’inscription demeure importante"
+          },
+          {
+            "type": "paragraph",
+            "text": "Au Canada, les investisseurs peuvent vérifier l’inscription d’une personne ou d’une société au moyen des outils des autorités en valeurs mobilières. L’inscription ne garantit pas l’adéquation, mais c’est une étape de base."
+          },
+          {
+            "type": "heading",
+            "text": "Questions à comparer"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Qu’est-ce qui est inclus dans le service?",
+              "Le conseil se limite-t-il à un portefeuille modèle?",
+              "Qui m’aide si ma situation change?",
+              "Quels frais paierai-je directement ou indirectement?",
+              "La personne ou la société est-elle inscrite pour l’activité proposée?",
+              "Ai-je besoin de planification, de gestion ou d’éducation?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Pour certains débutants, un robot conseiller peut suffire. Pour d’autres, surtout avec revenu d’entreprise, famille complexe, dettes, fiscalité ou assurance, un accompagnement humain peut être plus pertinent."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note de source : article éducatif seulement. Vérifiez toujours l’inscription et la portée du service."
+          }
+        ]
+      },
+      "zh": {
+        "title": "加拿大 Robo Advisor 和真人金融顾问有什么区别？",
+        "excerpt": "比较数字化投资组合服务和真人顾问的范围、费用、适用场景和限制，帮助新手判断自己真正需要什么。",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "很多新手觉得 robo advisor 更便宜、更简单；也有人更愿意找真人顾问，因为需要沟通、解释和责任感。更好的问题不是哪一个一定更好，而是你真正需要什么服务。"
+          },
+          {
+            "type": "heading",
+            "text": "Robo advisor 通常做什么"
+          },
+          {
+            "type": "paragraph",
+            "text": "Robo advisor 通常通过线上问卷了解用户情况，然后推荐一个模型投资组合，常见底层是 ETF 或类似基金。它可能自动再平衡，并收取持续费用。对于不想自己选择证券、但想要有人管理组合的人，这可能有帮助。"
+          },
+          {
+            "type": "heading",
+            "text": "真人顾问可能增加什么"
+          },
+          {
+            "type": "paragraph",
+            "text": "真人顾问可能讨论更广的目标，例如税务、保险、退休收入、企业收入、债务、家庭安排和行为习惯。它的价值未必只是选择产品，而是把财务选择和真实生活连接起来。"
+          },
+          {
+            "type": "heading",
+            "text": "费用只是比较的一部分"
+          },
+          {
+            "type": "paragraph",
+            "text": "数字化服务通常费用较低，但费用要和服务范围一起看。便宜但无法回答核心问题，可能仍然不够；收费较高但只是在卖产品，也未必合适。"
+          },
+          {
+            "type": "heading",
+            "text": "注册身份仍然重要"
+          },
+          {
+            "type": "paragraph",
+            "text": "在加拿大，投资者可以通过证券监管机构工具查询个人或公司是否注册。注册不代表一定适合你，但在依赖投资建议前，核查注册是基本步骤。"
+          },
+          {
+            "type": "heading",
+            "text": "比较时可以问"
+          },
+          {
+            "type": "list",
+            "items": [
+              "服务具体包括什么？",
+              "建议是否只限于模型组合？",
+              "如果我的个人情况变化，谁负责协助调整？",
+              "我会直接或间接支付哪些费用？",
+              "个人或公司是否具备相关活动的注册资格？",
+              "我需要的是规划、投资管理，还是基础教育？"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "对一些新手来说，robo advisor 可能已经足够；但对有企业收入、家庭复杂性、债务、税务或保险需求的人，真人顾问可能更相关。判断从问题开始，而不是从标签开始。"
+          },
+          {
+            "type": "paragraph",
+            "text": "资料说明：本文仅用于教育和信息交流。选择顾问或平台前，应核查注册身份和服务范围。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "active-vs-passive-investing-beginner-canada",
+    "date": "2026-04-26",
+    "category": "Investing Learning Notes",
+    "translations": {
+      "en": {
+        "title": "Active vs. Passive Investing: A Beginner Explanation Without the Fight",
+        "excerpt": "A calm explanation of active and passive investing, fees, benchmarks, expectations, and why the debate is not only about performance.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "The active versus passive debate can become emotional. Some people believe skilled managers can find better opportunities. Others believe most investors are better served by low cost diversified exposure. Beginners do not need to join a camp on day one. They need to understand the trade offs."
+          },
+          {
+            "type": "heading",
+            "text": "Passive investing"
+          },
+          {
+            "type": "paragraph",
+            "text": "Passive investing usually tries to track a market index or asset class rather than pick winners. The goal is not to beat the market every year, but to capture broad market exposure at a relatively low cost."
+          },
+          {
+            "type": "heading",
+            "text": "Active investing"
+          },
+          {
+            "type": "paragraph",
+            "text": "Active investing tries to make decisions that differ from an index. A manager may select securities, adjust sectors, hold cash, or change exposure based on research and judgment. This may create opportunity, but it can also create higher fees and underperformance risk."
+          },
+          {
+            "type": "heading",
+            "text": "The fee question"
+          },
+          {
+            "type": "paragraph",
+            "text": "Costs matter because they reduce the return investors keep. A higher fee is not automatically bad if the service and result justify it, but beginners should understand what they are paying for. Is the fee paying for security selection, planning, advice, tax management, or access?"
+          },
+          {
+            "type": "heading",
+            "text": "Benchmark matters"
+          },
+          {
+            "type": "paragraph",
+            "text": "A fund should be compared with an appropriate benchmark. If a Canadian equity fund is compared with the wrong index, the performance discussion becomes misleading. Beginners should learn what the fund is trying to do before judging whether it succeeded."
+          },
+          {
+            "type": "heading",
+            "text": "Behaviour may matter more than the label"
+          },
+          {
+            "type": "paragraph",
+            "text": "A low cost passive investor who panics and sells during downturns may have a poor result. An active investor who does not understand fees may also have a poor result. The structure matters, but behaviour matters too."
+          },
+          {
+            "type": "heading",
+            "text": "Questions for learners"
+          },
+          {
+            "type": "list",
+            "items": [
+              "What is this fund trying to do?",
+              "What benchmark is appropriate?",
+              "What are the total costs?",
+              "How often does the strategy change?",
+              "Do I understand the reason for holding it?",
+              "Can I stay with the plan during volatility?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "The active versus passive question is not a personality test. It is a framework for understanding cost, expectation, behaviour, and service. Beginners should focus less on winning the debate and more on understanding what they own."
+          },
+          {
+            "type": "paragraph",
+            "text": "Source note: This article is educational only and does not recommend any investment product."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Investissement actif ou passif : une explication calme pour débutants",
+        "excerpt": "Une explication des stratégies actives et passives, des frais, des indices de référence et des attentes réalistes.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Le débat entre investissement actif et passif peut devenir émotionnel. Certains croient que les gestionnaires peuvent trouver de meilleures occasions. D’autres pensent que la plupart des investisseurs sont mieux servis par une exposition diversifiée à faible coût. Les débutants n’ont pas besoin de choisir un camp immédiatement."
+          },
+          {
+            "type": "heading",
+            "text": "Investissement passif"
+          },
+          {
+            "type": "paragraph",
+            "text": "L’investissement passif cherche généralement à suivre un indice ou une catégorie d’actifs plutôt qu’à choisir des gagnants. L’objectif n’est pas de battre le marché chaque année, mais d’obtenir une exposition large à coût relativement faible."
+          },
+          {
+            "type": "heading",
+            "text": "Investissement actif"
+          },
+          {
+            "type": "paragraph",
+            "text": "L’investissement actif prend des décisions différentes d’un indice. Un gestionnaire peut choisir des titres, modifier les secteurs, garder des liquidités ou ajuster l’exposition. Cela peut créer des occasions, mais aussi des frais plus élevés et un risque de sous-performance."
+          },
+          {
+            "type": "heading",
+            "text": "La question des frais"
+          },
+          {
+            "type": "paragraph",
+            "text": "Les coûts comptent parce qu’ils réduisent le rendement conservé par l’investisseur. Un frais élevé n’est pas automatiquement mauvais, mais il faut comprendre ce qu’il paie."
+          },
+          {
+            "type": "heading",
+            "text": "L’indice de référence"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un fonds devrait être comparé à un indice approprié. Si l’indice choisi ne correspond pas à la stratégie, la discussion sur la performance devient trompeuse."
+          },
+          {
+            "type": "heading",
+            "text": "Le comportement compte aussi"
+          },
+          {
+            "type": "paragraph",
+            "text": "Un investisseur passif à faible coût qui vend dans la panique peut obtenir un mauvais résultat. Un investisseur actif qui ne comprend pas les frais peut aussi obtenir un mauvais résultat."
+          },
+          {
+            "type": "heading",
+            "text": "Questions utiles"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Que cherche à faire ce fonds?",
+              "Quel indice est approprié?",
+              "Quels sont les coûts totaux?",
+              "À quelle fréquence la stratégie change-t-elle?",
+              "Est-ce que je comprends pourquoi je le détiens?",
+              "Puis-je rester avec le plan en période de volatilité?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "La question actif ou passif n’est pas un test d’identité. C’est un cadre pour comprendre les coûts, les attentes, le comportement et le service."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note de source : article éducatif seulement. Il ne recommande aucun produit de placement."
+          }
+        ]
+      },
+      "zh": {
+        "title": "主动投资和被动投资：新手不需要先站队",
+        "excerpt": "用平和方式解释主动投资、被动投资、费用、基准和行为因素，帮助金融学习者理解差异。",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "主动投资和被动投资的讨论经常变得情绪化。有人相信优秀经理人可以找到更好的机会，也有人认为大多数投资者更适合低成本、分散化的市场暴露。新手第一天不需要站队，先理解取舍更重要。"
+          },
+          {
+            "type": "heading",
+            "text": "什么是被动投资"
+          },
+          {
+            "type": "paragraph",
+            "text": "被动投资通常试图追踪某个市场指数或资产类别，而不是挑选赢家。目标不是每年打败市场，而是以较低成本获得广泛市场暴露。"
+          },
+          {
+            "type": "heading",
+            "text": "什么是主动投资"
+          },
+          {
+            "type": "paragraph",
+            "text": "主动投资会做出不同于指数的决策。经理人可能选择证券、调整行业、持有现金或根据研究改变配置。这可能创造机会，也可能带来更高费用和跑输风险。"
+          },
+          {
+            "type": "heading",
+            "text": "费用问题"
+          },
+          {
+            "type": "paragraph",
+            "text": "费用重要，因为它减少投资者最终留下的回报。较高费用不一定永远不好，但新手必须知道自己在为什么付钱：是证券选择、规划服务、税务管理，还是某种渠道和服务。"
+          },
+          {
+            "type": "heading",
+            "text": "基准很重要"
+          },
+          {
+            "type": "paragraph",
+            "text": "基金应该和合适的基准比较。如果一个加拿大股票基金拿错误指数做比较，绩效讨论就会变得误导。先理解基金试图做什么，再判断它是否做到了。"
+          },
+          {
+            "type": "heading",
+            "text": "行为可能比标签更重要"
+          },
+          {
+            "type": "paragraph",
+            "text": "一个低成本被动投资者，如果在下跌时恐慌卖出，也可能得到很差结果。一个主动投资者如果不理解费用，也可能吃亏。结构重要，行为同样重要。"
+          },
+          {
+            "type": "heading",
+            "text": "学习者可以问"
+          },
+          {
+            "type": "list",
+            "items": [
+              "这个基金试图做什么？",
+              "合适的比较基准是什么？",
+              "总成本是多少？",
+              "策略变化频率如何？",
+              "我是否理解持有它的原因？",
+              "市场波动时我是否能坚持计划？"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "主动与被动不是性格测试，而是理解成本、预期、行为和服务的框架。新手不用急着赢得辩论，先搞清楚自己持有什么。"
+          },
+          {
+            "type": "paragraph",
+            "text": "资料说明：本文仅用于教育和信息交流，不推荐任何投资产品。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "risk-tolerance-vs-risk-capacity",
+    "date": "2026-04-26",
+    "category": "Canada Finance Basics",
+    "translations": {
+      "en": {
+        "title": "Risk Tolerance vs. Risk Capacity: Two Questions Beginners Often Confuse",
+        "excerpt": "A practical distinction between emotional comfort with risk and financial ability to absorb loss.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Many questionnaires ask how much risk you can tolerate. The phrase sounds simple, but it often mixes two different ideas. Risk tolerance is emotional comfort with uncertainty. Risk capacity is your financial ability to absorb loss or volatility."
+          },
+          {
+            "type": "heading",
+            "text": "Risk tolerance is psychological"
+          },
+          {
+            "type": "paragraph",
+            "text": "Risk tolerance asks how you feel when account values move. Some people can watch a portfolio fall without panic. Others lose sleep after a small decline. Neither reaction is morally better. The point is to know yourself before volatility arrives."
+          },
+          {
+            "type": "heading",
+            "text": "Risk capacity is financial"
+          },
+          {
+            "type": "paragraph",
+            "text": "Risk capacity depends on income stability, debt, emergency savings, time horizon, dependants, upcoming purchases, and whether you can delay withdrawals. A person may emotionally like risk but have low capacity because they need cash soon."
+          },
+          {
+            "type": "heading",
+            "text": "The mismatch problem"
+          },
+          {
+            "type": "paragraph",
+            "text": "Problems appear when tolerance and capacity conflict. Someone may feel comfortable taking risk during a bull market but lack the financial ability to recover from a loss. Another person may have high capacity but low tolerance, which can lead to selling too early."
+          },
+          {
+            "type": "heading",
+            "text": "Why this matters in Canada"
+          },
+          {
+            "type": "paragraph",
+            "text": "Registered accounts, mortgages, business income, variable rates, and family obligations can all affect capacity. A small business owner with uneven cash flow may need a different risk conversation than an employee with stable income and pension benefits."
+          },
+          {
+            "type": "heading",
+            "text": "Questions to separate the two"
+          },
+          {
+            "type": "list",
+            "items": [
+              "How would I feel if my investment fell 20 percent?",
+              "When will I need this money?",
+              "Do I have an emergency fund outside this account?",
+              "Is my income stable?",
+              "Do I have debts or major purchases coming?",
+              "Would a market decline force me to sell?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "A good risk conversation is not about sounding brave. It is about matching portfolio risk to real life. Beginners should learn to separate emotional comfort from financial capacity before choosing products."
+          },
+          {
+            "type": "paragraph",
+            "text": "Source note: This article is educational only and does not determine your personal risk profile."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Tolérance au risque et capacité de risque : deux notions souvent confondues",
+        "excerpt": "Une distinction pratique entre le confort émotionnel face au risque et la capacité financière d’absorber une perte.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "De nombreux questionnaires demandent quel niveau de risque vous pouvez tolérer. La phrase semble simple, mais elle mélange souvent deux idées. La tolérance au risque est émotionnelle. La capacité de risque est financière."
+          },
+          {
+            "type": "heading",
+            "text": "La tolérance au risque est psychologique"
+          },
+          {
+            "type": "paragraph",
+            "text": "Elle décrit votre réaction lorsque la valeur du compte varie. Certaines personnes restent calmes devant une baisse. D’autres dorment mal après une petite perte. Le but n’est pas de juger, mais de se connaître."
+          },
+          {
+            "type": "heading",
+            "text": "La capacité de risque est financière"
+          },
+          {
+            "type": "paragraph",
+            "text": "Elle dépend du revenu, des dettes, du fonds d’urgence, de l’horizon, des personnes à charge, des achats prévus et de la possibilité de retarder les retraits."
+          },
+          {
+            "type": "heading",
+            "text": "Le problème du décalage"
+          },
+          {
+            "type": "paragraph",
+            "text": "Une personne peut aimer le risque en période de hausse, mais ne pas avoir la capacité financière de supporter une perte. Une autre peut avoir une bonne capacité, mais une faible tolérance émotionnelle."
+          },
+          {
+            "type": "heading",
+            "text": "Pourquoi cela compte au Canada"
+          },
+          {
+            "type": "paragraph",
+            "text": "Comptes enregistrés, hypothèques, revenu d’entreprise, taux variables et obligations familiales peuvent tous influencer la capacité de risque."
+          },
+          {
+            "type": "heading",
+            "text": "Questions utiles"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Comment réagirais-je à une baisse de 20 %?",
+              "Quand aurai-je besoin de cet argent?",
+              "Ai-je un fonds d’urgence séparé?",
+              "Mon revenu est-il stable?",
+              "Ai-je des dettes ou achats importants prévus?",
+              "Une baisse me forcerait-elle à vendre?"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Une bonne discussion sur le risque ne consiste pas à paraître courageux. Elle consiste à relier le portefeuille à la vraie vie."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note de source : article éducatif seulement. Il ne détermine pas votre profil de risque personnel."
+          }
+        ]
+      },
+      "zh": {
+        "title": "风险承受意愿和风险承受能力：新手最容易混淆的两个问题",
+        "excerpt": "区分心理上能不能接受波动，和财务上能不能承受损失，帮助新手更真实地理解风险。",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "很多风险问卷都会问你能承受多少风险。这个问题看起来简单，但里面常常混着两个不同概念：风险承受意愿和风险承受能力。前者是心理感受，后者是财务现实。"
+          },
+          {
+            "type": "heading",
+            "text": "风险承受意愿是心理问题"
+          },
+          {
+            "type": "paragraph",
+            "text": "它问的是账户下跌时你会有什么反应。有人看到组合下跌也能保持冷静，有人小幅亏损就睡不着。这没有道德高低，关键是在波动发生前认识自己。"
+          },
+          {
+            "type": "heading",
+            "text": "风险承受能力是财务问题"
+          },
+          {
+            "type": "paragraph",
+            "text": "它取决于收入稳定性、债务、应急金、投资周期、家庭责任、近期大额支出，以及你是否能推迟取钱。一个人心理上喜欢冒险，但如果很快需要现金，风险承受能力可能并不高。"
+          },
+          {
+            "type": "heading",
+            "text": "错配问题"
+          },
+          {
+            "type": "paragraph",
+            "text": "风险问题常出在两者不匹配。牛市时一个人可能觉得自己很能承受风险，但财务上并没有能力承受真正损失。另一个人财务能力较强，但心理承受很低，也可能在市场下跌时过早卖出。"
+          },
+          {
+            "type": "heading",
+            "text": "为什么这在加拿大很现实"
+          },
+          {
+            "type": "paragraph",
+            "text": "注册账户、房贷、小生意收入、浮动利率和家庭责任都会影响风险承受能力。现金流不稳定的小生意主，和有稳定工资及养老金的人，风险讨论不应该完全一样。"
+          },
+          {
+            "type": "heading",
+            "text": "可以分开问的问题"
+          },
+          {
+            "type": "list",
+            "items": [
+              "如果投资下跌 20%，我心理上会如何反应？",
+              "这笔钱什么时候需要用？",
+              "账户外是否有应急金？",
+              "收入是否稳定？",
+              "是否有债务或近期大额支出？",
+              "市场下跌会不会迫使我卖出？"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "好的风险讨论不是为了显得勇敢，而是让投资风险和真实生活匹配。新手在选择产品前，应该先区分心理意愿和财务能力。"
+          },
+          {
+            "type": "paragraph",
+            "text": "资料说明：本文仅用于教育和信息交流，不判断你的个人风险等级。"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "slug": "how-to-read-fund-facts-etf-facts",
+    "date": "2026-04-26",
+    "category": "Canada Finance Basics",
+    "translations": {
+      "en": {
+        "title": "How to Read Fund Facts and ETF Facts Before You Buy",
+        "excerpt": "A beginner guide to the documents Canadian investors should review before buying mutual funds or ETFs.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Before buying a mutual fund or ETF in Canada, beginners should know that product documents exist for a reason. They are not marketing decoration. Fund Facts and ETF Facts are designed to summarize key information in a format investors can compare."
+          },
+          {
+            "type": "heading",
+            "text": "What these documents usually show"
+          },
+          {
+            "type": "list",
+            "items": [
+              "What the fund invests in.",
+              "Risk rating.",
+              "Past performance information.",
+              "Costs, including management expense ratio.",
+              "Trading or portfolio information.",
+              "Who manages or offers the fund."
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "Start with the investment objective"
+          },
+          {
+            "type": "paragraph",
+            "text": "The investment objective tells you what the fund is trying to do. If the objective does not match your purpose, the rest of the document may not matter. A fund designed for income, for example, is not the same as a fund designed for aggressive growth."
+          },
+          {
+            "type": "heading",
+            "text": "Look at the risk rating, but do not stop there"
+          },
+          {
+            "type": "paragraph",
+            "text": "Risk ratings are useful, but they are summaries. They do not replace understanding what the fund holds. A fund can look simple by name while holding securities, sectors, or currencies the beginner does not understand."
+          },
+          {
+            "type": "heading",
+            "text": "Fees deserve serious attention"
+          },
+          {
+            "type": "paragraph",
+            "text": "The management expense ratio reduces the return investors keep. A lower fee is not automatically the best choice, and a higher fee is not automatically wrong. But every fee should be connected to a service or strategy you understand."
+          },
+          {
+            "type": "heading",
+            "text": "Past performance is not a promise"
+          },
+          {
+            "type": "paragraph",
+            "text": "Historical returns show what happened, not what must happen next. A strong past period may reflect a specific market environment. Beginners should avoid buying a fund only because the recent chart looks good."
+          },
+          {
+            "type": "heading",
+            "text": "Useful reading order"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Objective first.",
+              "Holdings and asset mix second.",
+              "Risk rating third.",
+              "Fees fourth.",
+              "Performance last."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Reading product documents does not make someone an expert overnight. It does make the conversation better. A beginner who reads Fund Facts or ETF Facts before meeting a professional is less likely to be guided only by a product name or a sales presentation."
+          },
+          {
+            "type": "paragraph",
+            "text": "Source note: This article refers to Canadian Securities Administrators investor education on Fund Facts and ETF Facts. It is educational only."
+          }
+        ]
+      },
+      "fr": {
+        "title": "Comment lire l’aperçu du fonds et l’aperçu du FNB avant d’acheter",
+        "excerpt": "Un guide pour débutants sur les documents que les investisseurs canadiens devraient consulter avant d’acheter des fonds ou des FNB.",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Avant d’acheter un fonds commun ou un FNB au Canada, les débutants devraient savoir que les documents de produit existent pour une raison. Ils ne sont pas seulement décoratifs. L’aperçu du fonds et l’aperçu du FNB résument des renseignements clés de façon comparable."
+          },
+          {
+            "type": "heading",
+            "text": "Ce que ces documents montrent souvent"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Dans quoi le fonds investit.",
+              "Le niveau de risque.",
+              "Le rendement passé.",
+              "Les coûts, y compris le ratio des frais de gestion.",
+              "Certaines informations de portefeuille.",
+              "Qui gère ou offre le fonds."
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "Commencer par l’objectif"
+          },
+          {
+            "type": "paragraph",
+            "text": "L’objectif explique ce que le fonds essaie de faire. Si l’objectif ne correspond pas à votre besoin, le reste du document sera moins pertinent."
+          },
+          {
+            "type": "heading",
+            "text": "Regarder le risque, mais ne pas s’arrêter là"
+          },
+          {
+            "type": "paragraph",
+            "text": "La cote de risque est utile, mais elle reste un résumé. Elle ne remplace pas la compréhension des titres détenus, des secteurs ou des devises."
+          },
+          {
+            "type": "heading",
+            "text": "Les frais méritent attention"
+          },
+          {
+            "type": "paragraph",
+            "text": "Le ratio des frais de gestion réduit le rendement conservé par l’investisseur. Un frais plus faible n’est pas automatiquement le meilleur choix, mais chaque frais doit être compris."
+          },
+          {
+            "type": "heading",
+            "text": "Le rendement passé n’est pas une promesse"
+          },
+          {
+            "type": "paragraph",
+            "text": "Les rendements historiques montrent ce qui s’est produit, pas ce qui doit arriver. Une bonne période peut refléter un environnement de marché particulier."
+          },
+          {
+            "type": "heading",
+            "text": "Ordre de lecture utile"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Objectif d’abord.",
+              "Titres et répartition ensuite.",
+              "Risque ensuite.",
+              "Frais ensuite.",
+              "Performance en dernier."
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "Lire ces documents ne transforme pas un débutant en expert. Mais cela rend la conversation plus sérieuse et réduit la dépendance à un nom de produit ou à une présentation commerciale."
+          },
+          {
+            "type": "paragraph",
+            "text": "Note de source : cet article s’appuie sur l’éducation des investisseurs des Autorités canadiennes en valeurs mobilières au sujet de l’aperçu du fonds et de l’aperçu du FNB."
+          }
+        ]
+      },
+      "zh": {
+        "title": "购买基金或 ETF 前，如何阅读 Fund Facts 和 ETF Facts",
+        "excerpt": "解释加拿大基金和 ETF 文件中应该先看的内容，帮助新手避免只听产品名字或销售介绍。",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "在加拿大购买 mutual fund 或 ETF 前，新手应该知道：产品文件不是装饰，也不是只给专业人士看的。Fund Facts 和 ETF Facts 的作用，是用相对简明、可比较的方式展示关键信息。"
+          },
+          {
+            "type": "heading",
+            "text": "这些文件通常包含什么"
+          },
+          {
+            "type": "list",
+            "items": [
+              "基金投资什么。",
+              "风险评级。",
+              "过去表现。",
+              "费用，包括 MER。",
+              "部分持仓或组合信息。",
+              "谁管理或发行这个产品。"
+            ]
+          },
+          {
+            "type": "heading",
+            "text": "先看投资目标"
+          },
+          {
+            "type": "paragraph",
+            "text": "投资目标说明这只基金试图做什么。如果目标和你的需求不匹配，后面再多数字也可能意义有限。一个以收入为目标的基金，和一个以高增长为目标的基金，并不是同一类工具。"
+          },
+          {
+            "type": "heading",
+            "text": "看风险评级，但不要只看评级"
+          },
+          {
+            "type": "paragraph",
+            "text": "风险评级有帮助，但它只是摘要，不能替代对底层持仓的理解。有些基金名字看起来简单，但实际可能涉及你不熟悉的证券、行业或货币。"
+          },
+          {
+            "type": "heading",
+            "text": "费用必须认真看"
+          },
+          {
+            "type": "paragraph",
+            "text": "MER 会减少投资者实际留下的回报。低费用不一定永远最好，高费用也不一定绝对错误。但每一笔费用都应该对应你能理解的服务或策略。"
+          },
+          {
+            "type": "heading",
+            "text": "过去表现不是承诺"
+          },
+          {
+            "type": "paragraph",
+            "text": "历史收益展示的是过去发生了什么，不代表未来必须重复。近期表现很好，可能只是因为特定市场环境。新手不应该只因为图表好看就买入。"
+          },
+          {
+            "type": "heading",
+            "text": "一个实用阅读顺序"
+          },
+          {
+            "type": "list",
+            "items": [
+              "先看目标。",
+              "再看持仓和资产配置。",
+              "再看风险。",
+              "再看费用。",
+              "最后看过去表现。"
+            ]
+          },
+          {
+            "type": "paragraph",
+            "text": "阅读这些文件不会让人一夜变成专家，但会让咨询和判断更有效。一个提前读过 Fund Facts 或 ETF Facts 的新手，不容易只被产品名字或销售话术带着走。"
+          },
+          {
+            "type": "paragraph",
+            "text": "资料说明：本文参考加拿大证券管理机构关于 Fund Facts 和 ETF Facts 的投资者教育内容，仅用于一般学习。"
+          }
+        ]
+      }
+    }
   }
 ];
 
