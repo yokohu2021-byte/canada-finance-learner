@@ -30,3 +30,8 @@
 - Google AdSense integration
 - Simple lead routing workflow
 - Analytics dashboard
+
+
+## 2026-04-27 Update
+
+Added 20 more high-quality Canada-focused finance, mortgage, student loan, small business financing, and tax education articles. Total article count: 40.

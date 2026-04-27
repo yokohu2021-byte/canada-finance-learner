@@ -4154,7 +4154,2889 @@ export const articles: Article[] = [
         ]
       }
     }
+  },
+{
+  "slug": "mortgage-pre-approval-vs-approval-canada",
+  "date": "2026-04-27",
+  "category": "Canada Finance Basics",
+  "translations": {
+    "en": {
+      "title": "Mortgage Pre-Approval vs. Approval in Canada: What Beginners Often Misread",
+      "excerpt": "A practical explanation of what a mortgage pre-approval can and cannot tell you before buying a home in Canada.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A mortgage pre-approval can feel like a green light. In reality, it is closer to an early screening. A lender or broker may review your income, debts, credit history, down payment, and documents to estimate how much you may be able to borrow. That estimate is useful, but it is not the same as final approval."
+        },
+        {
+          "type": "paragraph",
+          "text": "Final approval usually depends on the property as well as the borrower. The lender still needs to review the purchase contract, property value, appraisal, insurance requirements, and any conditions that appear before closing."
+        },
+        {
+          "type": "heading",
+          "text": "What a pre-approval is useful for"
+        },
+        {
+          "type": "list",
+          "items": [
+            "It gives a rough budget range before serious home shopping.",
+            "It may help you understand how income, debt payments, and credit affect borrowing power.",
+            "It can start a more realistic conversation about monthly payments, closing costs, and rate holds."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "What it does not guarantee"
+        },
+        {
+          "type": "paragraph",
+          "text": "A pre-approval does not guarantee that every property will qualify. It also does not protect you if your employment changes, new debts appear, documents cannot be verified, or the lender’s underwriting decision changes after a full file review."
+        },
+        {
+          "type": "paragraph",
+          "text": "For financial learners, the lesson is not to treat pre-approval as permission to spend the maximum number. A home purchase also involves property tax, strata or condo fees, utilities, insurance, repairs, moving costs, land transfer costs in some provinces, and the emotional pressure of a long debt commitment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reference note: This article is educational only. Mortgage rules, lender policies, and provincial costs can change, so buyers should confirm details with a licensed mortgage professional."
+        }
+      ]
+    },
+    "zh": {
+      "title": "加拿大房贷预批和正式批准有什么区别？新手最容易误解的地方",
+      "excerpt": "解释加拿大买房前的 mortgage pre-approval 到底代表什么，以及它为什么不等于最终贷款批准。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "很多人拿到房贷预批后，会觉得自己已经“稳了”。但更准确地说，预批只是初步筛选，不是最终承诺。银行或贷款经纪通常会根据收入、债务、信用记录、首付和文件，估算你大概能借多少钱。"
+        },
+        {
+          "type": "paragraph",
+          "text": "正式批准还要看房子本身。贷款机构通常还需要审核购房合同、房屋估值、保险要求、房屋类型和交割前条件。如果房子不符合要求，或者你的收入、债务、信用情况发生变化，预批也可能失效。"
+        },
+        {
+          "type": "heading",
+          "text": "预批真正有用的地方"
+        },
+        {
+          "type": "list",
+          "items": [
+            "帮助你在看房前建立大致预算范围。",
+            "让你理解收入、负债和信用如何影响借款能力。",
+            "提前了解月供、利率锁定和交割成本。"
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "它不能保证什么"
+        },
+        {
+          "type": "paragraph",
+          "text": "预批不保证每套房子都能贷款，也不保证最终一定能过。工作变动、新增负债、资料无法核实或房屋估值不足，都可能影响结果。"
+        },
+        {
+          "type": "paragraph",
+          "text": "对金融学习者来说，重点不是拿到最大额度后就按上限买房，而是理解买房还有房产税、物业费、水电、保险、维修、搬家和长期债务压力。"
+        },
+        {
+          "type": "paragraph",
+          "text": "资料说明：本文仅作一般金融知识科普，不构成购房或贷款建议。具体贷款条件需向持牌贷款专业人士确认。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Préapprobation hypothécaire ou approbation finale au Canada : ce que les débutants confondent souvent",
+      "excerpt": "Une explication pratique de ce qu’une préapprobation hypothécaire signifie réellement avant l’achat d’une propriété au Canada.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Une préapprobation hypothécaire peut donner l’impression d’un feu vert. En réalité, c’est surtout une première évaluation du revenu, des dettes, du crédit, de la mise de fonds et des documents."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’approbation finale dépend aussi de la propriété. Le prêteur peut encore examiner le contrat d’achat, l’évaluation, le type de propriété, l’assurance et les conditions avant la clôture."
+        },
+        {
+          "type": "heading",
+          "text": "À quoi sert une préapprobation"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Établir une fourchette budgétaire réaliste.",
+            "Comprendre l’effet des dettes, du revenu et du crédit.",
+            "Commencer la discussion sur les paiements, les frais et le taux."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Ce qu’elle ne garantit pas"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elle ne garantit pas que chaque propriété sera acceptée ni que le dossier final sera approuvé. Un changement d’emploi, une nouvelle dette ou une propriété problématique peut modifier le résultat."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif n’est pas de dépenser automatiquement le maximum, mais de comprendre le coût complet de l’achat."
+        },
+        {
+          "type": "paragraph",
+          "text": "Note : ce texte est éducatif et ne remplace pas l’avis d’un professionnel hypothécaire qualifié."
+        }
+      ]
+    }
   }
+},
+{
+  "slug": "fixed-vs-variable-mortgage-rates-canada",
+  "date": "2026-04-27",
+  "category": "Canada Finance Basics",
+  "translations": {
+    "en": {
+      "title": "Fixed vs. Variable Mortgage Rates in Canada: A Decision Framework, Not a Prediction Game",
+      "excerpt": "A beginner-friendly framework for thinking about fixed and variable mortgage rates without pretending to forecast interest rates.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Many mortgage conversations quickly turn into rate predictions. Will the Bank of Canada cut? Will rates rise again? Should I choose fixed or variable? Those questions matter, but a beginner’s first task is not to forecast interest rates. It is to understand which risk they are taking."
+        },
+        {
+          "type": "heading",
+          "text": "Fixed rate: payment certainty"
+        },
+        {
+          "type": "paragraph",
+          "text": "A fixed-rate mortgage usually gives more payment certainty during the mortgage term. The borrower knows the interest rate and regular payment for that term, which can reduce stress for households that need predictable monthly cash flow."
+        },
+        {
+          "type": "heading",
+          "text": "Variable rate: rate movement exposure"
+        },
+        {
+          "type": "paragraph",
+          "text": "A variable-rate mortgage moves with the lender’s prime rate. In some products, payments change when rates change. In others, payments may stay fixed for a time, but more or less of each payment goes toward interest. FCAC has warned that fixed-payment variable mortgages can be riskier than they appear when rates rise."
+        },
+        {
+          "type": "heading",
+          "text": "The real question"
+        },
+        {
+          "type": "paragraph",
+          "text": "The practical question is not simply “which one will save money?” It is: if rates move against me, can my budget absorb the change?"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Choose certainty if cash flow stability matters most.",
+            "Consider flexibility only if your budget can tolerate rate movement.",
+            "Ask about penalties, conversion options, trigger rates, and renewal risk before comparing only headline rates."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is not a recommendation for either type of mortgage. It is a framework for asking better questions before speaking with a lender or licensed mortgage professional."
+        }
+      ]
+    },
+    "zh": {
+      "title": "加拿大固定利率和浮动利率房贷：不要把它变成预测游戏",
+      "excerpt": "用新手能理解的方式解释固定利率和浮动利率房贷的差异，重点是风险承受，而不是猜利率。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "很多房贷讨论很快会变成利率预测：央行会不会降息？利率会不会再涨？应该选固定还是浮动？这些问题重要，但新手第一步不是预测利率，而是先理解自己承担的是哪一种风险。"
+        },
+        {
+          "type": "heading",
+          "text": "固定利率：换取现金流确定性"
+        },
+        {
+          "type": "paragraph",
+          "text": "固定利率房贷通常在一个期限内提供更强的付款确定性。借款人知道利率和月供，这对需要稳定预算的家庭更容易管理。"
+        },
+        {
+          "type": "heading",
+          "text": "浮动利率：承担利率变化风险"
+        },
+        {
+          "type": "paragraph",
+          "text": "浮动利率通常会随着贷款机构 prime rate 变化。有些产品月供会跟着变，有些产品月供短期不变，但利息占比会上升或下降。加拿大金融消费者机构曾提醒，固定付款的浮动利率房贷在利率上升时可能比表面上更有风险。"
+        },
+        {
+          "type": "heading",
+          "text": "真正的问题"
+        },
+        {
+          "type": "paragraph",
+          "text": "重点不是问“哪个一定更省钱”，而是问：如果利率往不利方向变化，我的现金流能承受吗？"
+        },
+        {
+          "type": "list",
+          "items": [
+            "如果现金流稳定最重要，固定利率更容易理解。",
+            "如果选择浮动，需要确认预算能承受变化。",
+            "比较时要问清提前还款罚金、转换选择、trigger rate 和续贷风险。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "本文不推荐任何一种房贷，只提供提问框架。具体选择应和持牌贷款专业人士讨论。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Taux hypothécaire fixe ou variable au Canada : un cadre de réflexion, pas un jeu de prédiction",
+      "excerpt": "Un cadre simple pour comparer les taux fixes et variables sans prétendre prévoir les taux d’intérêt.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Les discussions hypothécaires deviennent vite des prévisions de taux. Pourtant, pour un débutant, la première question n’est pas de prédire les taux, mais de comprendre le risque accepté."
+        },
+        {
+          "type": "heading",
+          "text": "Taux fixe : stabilité du paiement"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un prêt hypothécaire à taux fixe offre généralement une meilleure prévisibilité pendant le terme."
+        },
+        {
+          "type": "heading",
+          "text": "Taux variable : exposition aux mouvements de taux"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un taux variable évolue avec le taux préférentiel du prêteur. Dans certains cas, le paiement change; dans d’autres, la part allant aux intérêts augmente quand les taux montent."
+        },
+        {
+          "type": "heading",
+          "text": "La vraie question"
+        },
+        {
+          "type": "paragraph",
+          "text": "La question n’est pas seulement de savoir lequel sera moins cher. Il faut demander : mon budget peut-il absorber une hausse de taux?"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Prioriser la stabilité si le budget est serré.",
+            "Accepter le variable seulement avec une marge de sécurité.",
+            "Comparer les pénalités, options de conversion et risques au renouvellement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte n’est pas une recommandation hypothécaire. Il sert à préparer de meilleures questions."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "down-payment-closing-costs-canada-homebuyer",
+  "date": "2026-04-27",
+  "category": "Canada Finance Basics",
+  "translations": {
+    "en": {
+      "title": "Down Payment, Mortgage Insurance, and Closing Costs: The Homebuyer Math Many People Miss",
+      "excerpt": "A practical article for beginners who want to understand the cash needed before buying a home in Canada.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Buying a home is not only about the down payment. A buyer also needs to think about legal fees, inspection costs, moving costs, insurance, property tax adjustments, and in some provinces or cities, land transfer taxes. A low down payment may also mean mortgage default insurance, which protects the lender even though the borrower pays the premium. The useful habit is to build a cash budget for the purchase, not only a borrowing budget."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "首付、贷款保险和交割成本：加拿大买房新手最容易漏算的现金需求",
+      "excerpt": "解释加拿大买房时除了首付以外，还需要预留哪些现金成本。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "买房不是只有首付。新手还要考虑律师费、验房费、搬家费、保险、房产税调整，以及部分省市的土地转让税。低于 20% 首付通常还可能涉及贷款违约保险，保险保护贷款机构，但费用由借款人承担。更稳妥的做法是建立完整现金预算，而不是只看能借多少钱。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Mise de fonds, assurance prêt hypothécaire et frais de clôture : les coûts que les acheteurs oublient",
+      "excerpt": "Un guide simple sur l’argent nécessaire avant l’achat d’une propriété au Canada.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Acheter une maison ne se limite pas à la mise de fonds. Il faut aussi prévoir frais juridiques, inspection, déménagement, assurance, ajustements de taxes et parfois droits de mutation. Une faible mise de fonds peut exiger une assurance prêt hypothécaire."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "canada-student-loan-interest-repayment-basics",
+  "date": "2026-04-27",
+  "category": "Canada Finance Basics",
+  "translations": {
+    "en": {
+      "title": "Canada Student Loan Interest and Repayment: What Borrowers Should Check First",
+      "excerpt": "A plain-language explanation of federal student loan interest, repayment assistance, and why provincial loans may follow different rules.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Student loans in Canada can combine federal and provincial rules. The Government of Canada eliminated interest on Canada Student Loans from April 1, 2023, but provincial portions may follow different rules and older accrued interest may still matter. Borrowers should check the NSLSC account, provincial loan information, payment due date, and whether repayment assistance may apply before assuming the loan is simple."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "加拿大学生贷款利息和还款：借款人首先应该确认什么",
+      "excerpt": "解释加拿大联邦学生贷款利息、还款援助计划，以及为什么省级贷款规则可能不同。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "加拿大学生贷款可能同时涉及联邦和省级规则。联邦政府从 2023 年 4 月 1 日起取消 Canada Student Loans 的利息累积，但省级贷款部分可能规则不同，之前已经产生的利息也可能仍需处理。借款人应查看 NSLSC 账户、省级贷款信息、还款日期和是否符合还款援助。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Intérêts et remboursement des prêts étudiants au Canada : ce qu’il faut vérifier d’abord",
+      "excerpt": "Une explication claire des prêts étudiants fédéraux, de l’aide au remboursement et des différences provinciales possibles.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Les prêts étudiants peuvent combiner des règles fédérales et provinciales. Le Canada a éliminé les intérêts sur les prêts d’études canadiens à compter du 1er avril 2023, mais les portions provinciales peuvent différer."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "repayment-assistance-plan-canada-student-loans",
+  "date": "2026-04-27",
+  "category": "Canada Finance Basics",
+  "translations": {
+    "en": {
+      "title": "Repayment Assistance Plan: What Canada Student Loan Borrowers Should Know Before Missing Payments",
+      "excerpt": "A practical overview of the Repayment Assistance Plan and why early action matters when student loan payments become difficult.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Repayment Assistance Plan is designed to help eligible borrowers who are having difficulty repaying government student loans. It usually requires an application and is not the same as ignoring payments. The earlier a borrower checks eligibility, required income information, and renewal timing, the more options they may preserve. The practical lesson is to communicate early rather than wait for missed payments to accumulate."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "加拿大 Repayment Assistance Plan：学生贷款还不上时，为什么要尽早处理",
+      "excerpt": "解释学生贷款还款援助计划的基本逻辑，以及为什么不要等到逾期后才行动。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Repayment Assistance Plan 是为还款困难的政府学生贷款借款人设计的援助机制，通常需要申请，不等于可以忽视账单。越早确认资格、收入资料和是否需要续申，越容易保留选择。关键不是拖到逾期后才处理，而是尽早沟通。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Programme d’aide au remboursement : ce que les emprunteurs étudiants doivent savoir avant les retards",
+      "excerpt": "Un aperçu pratique du Programme d’aide au remboursement et de l’importance d’agir tôt.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Le Programme d’aide au remboursement aide certains emprunteurs en difficulté, mais il faut généralement présenter une demande. Il ne faut pas simplement ignorer les paiements."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "small-business-loan-options-canada",
+  "date": "2026-04-27",
+  "category": "Founder & Small Business Finance",
+  "translations": {
+    "en": {
+      "title": "Small Business Loan Options in Canada: Bank Loan, Line of Credit, Government-Backed Financing, or Alternative Lender?",
+      "excerpt": "A founder-focused guide to common small business financing channels in Canada and how to compare them without chasing the easiest money.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Small business financing is a set of tools, not one product. Term loans often fit planned purchases or expansion. Lines of credit are usually better for short-term working capital gaps. Government-backed programs can help some businesses access lender financing. Alternative lenders may move faster but often cost more. The first question should be what the money is for, not where approval is easiest."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "加拿大小生意贷款渠道：银行贷款、信用额度、政府支持融资还是另类贷款？",
+      "excerpt": "面向创业者和小生意主的加拿大商业融资入门，帮助理解不同贷款工具适合什么问题。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "小生意融资不是单一产品，而是一组工具。定期贷款更适合计划性采购或扩张；信用额度更适合短期营运资金缺口；政府支持项目可能帮助部分企业获得银行融资；另类贷款速度可能更快但成本通常更高。第一问题不是哪里最快批，而是这笔钱到底解决什么问题。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Options de financement pour petites entreprises au Canada : prêt bancaire, marge de crédit ou financement garanti?",
+      "excerpt": "Un guide pour comprendre les principaux canaux de financement des petites entreprises au Canada.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Le financement des petites entreprises est une boîte à outils. Les prêts à terme conviennent aux achats planifiés; les marges de crédit aux besoins temporaires; les programmes garantis peuvent aider certains dossiers."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "canada-small-business-financing-program-basics",
+  "date": "2026-04-27",
+  "category": "Founder & Small Business Finance",
+  "translations": {
+    "en": {
+      "title": "Canada Small Business Financing Program: What It Is, Who It Helps, and What It Does Not Do",
+      "excerpt": "A clear explanation of the CSBFP for founders comparing government-backed business financing in Canada.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Canada Small Business Financing Program helps small businesses access financing from participating financial institutions by sharing risk with lenders. It is generally aimed at small businesses and startups operating in Canada with gross annual revenues of $10 million or less. It does not make approval automatic. The lender still reviews the business, cash flow, credit, purpose of funds, security, and repayment ability."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "Canada Small Business Financing Program：它能帮谁，不能解决什么",
+      "excerpt": "解释加拿大 CSBFP 小企业融资项目的基本逻辑，适合创业者比较融资渠道。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Canada Small Business Financing Program 通过让政府与贷款机构分担部分风险，帮助小企业获得融资。它通常面向在加拿大经营、年总收入不超过 1000 万加币的小企业和初创企业。但这不等于自动批准，贷款机构仍会审核业务、现金流、信用、用途、担保和还款能力。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Programme de financement des petites entreprises du Canada : rôle, utilité et limites",
+      "excerpt": "Une explication claire du PFPEC pour les fondateurs qui comparent leurs options de financement.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Le PFPEC aide les petites entreprises à obtenir du financement auprès de prêteurs participants en partageant une partie du risque. L’approbation n’est pas automatique et le prêteur analyse toujours le dossier."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "business-line-of-credit-vs-term-loan",
+  "date": "2026-04-27",
+  "category": "Founder & Small Business Finance",
+  "translations": {
+    "en": {
+      "title": "Business Line of Credit vs. Term Loan: The Difference Small Business Owners Should Know",
+      "excerpt": "A practical comparison for founders who need working capital but want to avoid using the wrong financing tool.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A business line of credit is usually a flexible tool for timing gaps: receivables, seasonal inventory, or short operating cycles. A term loan is usually better for a defined purchase that will benefit the business over time, such as equipment or leasehold improvements. The wrong match can create pressure: long-term assets should not rely only on short-term borrowing, and fluctuating needs should not always become fixed debt."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "商业信用额度和定期贷款有什么区别？小生意主应该先理解的融资工具",
+      "excerpt": "帮助创业者区分 line of credit 和 term loan，避免用错融资工具。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "商业信用额度通常适合解决时间差，例如应收款、季节性库存或短期周转。定期贷款更适合明确且长期有用的采购，例如设备或装修。工具选错会产生压力：长期资产不应只靠短期借款，波动性需求也不一定适合变成固定债务。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Marge de crédit d’entreprise ou prêt à terme : la différence à connaître",
+      "excerpt": "Une comparaison pratique pour éviter de choisir le mauvais outil de financement.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Une marge de crédit sert souvent aux écarts temporaires de trésorerie. Un prêt à terme convient mieux à un achat défini et durable. Le mauvais choix peut créer une pression inutile."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "merchant-cash-advance-risks-canada",
+  "date": "2026-04-27",
+  "category": "Founder & Small Business Finance",
+  "translations": {
+    "en": {
+      "title": "Merchant Cash Advances: Fast Money That Small Businesses Should Read Carefully",
+      "excerpt": "Why fast business cash can be expensive, and which questions owners should ask before accepting a merchant cash advance.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A merchant cash advance can look attractive because approval may be fast and repayment may be tied to sales. The danger is that the cost can be difficult to compare with a normal loan. Owners should ask about the factor rate, total repayment amount, daily or weekly withdrawals, renewal pressure, and what happens during slow sales periods. Fast money can help in a real emergency, but it can also train a business to survive on expensive cash."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "现金垫款 Merchant Cash Advance：为什么快速资金也可能很贵",
+      "excerpt": "解释小生意主在接受 MCA 前应该问清楚哪些问题。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Merchant Cash Advance 看起来有吸引力，因为审批可能很快，还款也可能和销售额挂钩。风险在于成本不容易和普通贷款比较。小生意主应问清 factor rate、总还款额、每日或每周扣款、续借压力，以及淡季销售下降时会发生什么。快速资金可以应急，也可能让企业依赖昂贵现金。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Avance de fonds aux commerçants : argent rapide, coût parfois élevé",
+      "excerpt": "Les questions à poser avant d’accepter ce type de financement.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Une avance de fonds peut être rapide, mais le coût est parfois difficile à comparer avec un prêt classique. Il faut examiner le montant total à rembourser, la fréquence des retraits et la pression au renouvellement."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "futurpreneur-bdc-startup-financing-canada",
+  "date": "2026-04-27",
+  "category": "Founder & Small Business Finance",
+  "translations": {
+    "en": {
+      "title": "Futurpreneur, BDC, and Startup Financing: What Early Founders Should Prepare",
+      "excerpt": "A founder-oriented overview of startup financing documents, cash flow projections, and lender readiness.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Early-stage financing is rarely only about a good idea. Programs and lenders usually want to see a business plan, use of funds, cash flow projection, owner background, credit information, and evidence that the business model has a path to repayment. A founder who can explain assumptions clearly often looks more credible than one who only presents optimistic sales targets."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "Futurpreneur、BDC 和创业融资：早期创业者应准备什么",
+      "excerpt": "解释创业者申请融资前需要准备的核心资料和现金流逻辑。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "早期创业融资很少只看一个好想法。项目方和贷款机构通常会看商业计划、资金用途、现金流预测、创始人背景、信用信息，以及商业模式是否有还款路径。能清楚解释假设的创业者，通常比只展示乐观销售目标的人更可信。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Futurpreneur, BDC et financement de démarrage : ce qu’il faut préparer",
+      "excerpt": "Un aperçu des documents et de la préparation financière.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Le financement de démarrage ne repose pas seulement sur une bonne idée. Les prêteurs veulent souvent voir un plan, l’usage des fonds, les prévisions de trésorerie et la capacité de remboursement."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "tax-deduction-vs-tax-credit-canada",
+  "date": "2026-04-27",
+  "category": "Canada Finance Basics",
+  "translations": {
+    "en": {
+      "title": "Tax Deduction vs. Tax Credit in Canada: A Simple Difference with Big Consequences",
+      "excerpt": "A beginner explanation of deductions, credits, and why tax reduction is not the same as tax avoidance.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A tax deduction generally reduces taxable income. A tax credit generally reduces tax payable. That difference matters because a dollar of deduction is not usually worth a dollar of tax saved. For beginners, the bigger lesson is that tax-efficient planning is not the same as inventing expenses. Legitimate claims need eligibility, records, and a reasonable connection to income or the specific credit rules."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "加拿大 tax deduction 和 tax credit 有什么区别？",
+      "excerpt": "用新手能理解的方式解释抵扣、抵免和合规减税的区别。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "税务扣除通常减少应税收入，税务抵免通常减少应纳税额。这个区别很重要，因为一加币扣除并不等于少交一加币税。对新手来说，更重要的是理解合规节税不等于编造费用。合法申报需要资格、记录，以及和收入或规则的合理关联。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Déduction fiscale ou crédit d’impôt au Canada : une différence importante",
+      "excerpt": "Une explication simple pour débutants.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Une déduction réduit généralement le revenu imposable; un crédit réduit l’impôt payable. La planification fiscale légale exige l’admissibilité, des preuves et un lien raisonnable avec les règles."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "business-use-of-home-expenses-canada",
+  "date": "2026-04-27",
+  "category": "Founder & Small Business Finance",
+  "translations": {
+    "en": {
+      "title": "Business-Use-of-Home Expenses in Canada: What Small Operators Should Track",
+      "excerpt": "A practical guide to workspace expenses, documentation, and why home-office claims need evidence.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Business-use-of-home expenses are not a magic write-off. CRA rules generally require that the workspace be the principal place of business or used only to earn business income and used regularly and continuously to meet clients, customers, or patients. Small operators should track the area used, total home costs, business use percentage, and whether the space is genuinely connected to earning income."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "加拿大 home office 经营费用：小生意主应该记录什么",
+      "excerpt": "解释在家办公/经营相关费用的基本规则和记录逻辑。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "家庭办公费用不是万能抵税。CRA 规则通常要求该空间是主要经营地点，或专门用于赚取商业收入并定期持续用于接待客户、顾客或病人。小生意主应记录使用面积、总家庭费用、商业使用比例，以及空间是否真实用于产生收入。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Dépenses liées à l’utilisation du domicile pour l’entreprise",
+      "excerpt": "Ce que les petits exploitants devraient documenter.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Les dépenses liées au domicile ne sont pas une déduction magique. Il faut généralement que l’espace soit le lieu principal d’affaires ou utilisé régulièrement pour gagner un revenu d’entreprise."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "gst-hst-registration-small-supplier-canada",
+  "date": "2026-04-27",
+  "category": "Founder & Small Business Finance",
+  "translations": {
+    "en": {
+      "title": "GST/HST Registration and the $30,000 Small Supplier Threshold: What New Businesses Should Watch",
+      "excerpt": "A practical overview of the small supplier threshold and why revenue tracking matters before registration becomes mandatory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Many small operators hear “$30,000 threshold” and remember only the number. The timing is just as important. CRA rules distinguish between exceeding $30,000 in a single calendar quarter and exceeding it over four or fewer consecutive calendar quarters. Once registration is required, charging and remitting GST/HST becomes part of the business system, not an optional detail."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "GST/HST 注册和 3 万加币小供应商门槛：新生意要注意什么",
+      "excerpt": "解释加拿大 GST/HST 注册门槛和为什么销售额跟踪很重要。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "很多小生意主只记住 3 万加币这个数字，却忽略时间规则。CRA 会区分单一季度超过 3 万，以及连续四个或更少季度合计超过 3 万。达到强制注册后，收取和申报 GST/HST 就成为企业系统的一部分，不再是可选细节。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Inscription à la TPS/TVH et seuil de petit fournisseur de 30 000 $",
+      "excerpt": "Pourquoi les nouvelles entreprises doivent suivre leur chiffre d’affaires.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Beaucoup de petites entreprises retiennent seulement le seuil de 30 000 $. Le moment où ce seuil est dépassé compte aussi. Une fois l’inscription requise, la TPS/TVH devient une obligation opérationnelle."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "sole-proprietor-vs-corporation-tax-canada",
+  "date": "2026-04-27",
+  "category": "Founder & Small Business Finance",
+  "translations": {
+    "en": {
+      "title": "Sole Proprietor vs. Corporation in Canada: Tax Simplicity, Liability, and Growth Trade-Offs",
+      "excerpt": "A balanced overview for beginners comparing self-employment and incorporation.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A sole proprietorship is often simpler to start and report, but the business and owner are not as separate. A corporation is a separate legal entity, often with more setup, annual filings, accounting, and legal formality. Incorporation may help with liability separation, planning, and retained earnings, but it does not automatically save tax for every small business. The right structure depends on risk, profit level, reinvestment plans, and administrative capacity."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "加拿大个体经营和注册公司：税务简单性、责任和成长取舍",
+      "excerpt": "帮助创业者理解 sole proprietor 和 corporation 的基本区别。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "个体经营通常更容易开始和申报，但企业和个人之间没有那么清晰的分离。公司是独立法律实体，通常需要更多设立、年报、会计和法律维护。注册公司可能有助于责任隔离、规划和留存利润，但不等于所有小生意都会自动省税。结构选择取决于风险、利润水平、再投资计划和管理能力。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Entreprise individuelle ou société au Canada : fiscalité, responsabilité et croissance",
+      "excerpt": "Un aperçu équilibré pour débutants.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "L’entreprise individuelle est plus simple, mais moins séparée du propriétaire. La société offre une entité juridique distincte, avec plus de formalités. L’incorporation n’est pas automatiquement avantageuse pour tous."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "single-common-law-married-tax-status-canada",
+  "date": "2026-04-27",
+  "category": "Canada Finance Basics",
+  "translations": {
+    "en": {
+      "title": "Single, Common-Law, Married, or Separated: Why Marital Status Matters for Canadian Taxes",
+      "excerpt": "A practical explanation of CRA marital status and how it can affect benefits and credits.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Marital status in Canada is not just a personal label on a tax return. CRA uses it to calculate benefits and credits based on family net income. A person who becomes married, common-law, separated, divorced, or widowed may need to update CRA by the required timing. For separation, CRA generally requires a 90-day separation period due to relationship breakdown before reporting the change."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "单身、同居、已婚或分居：为什么婚姻状态会影响加拿大税务和福利",
+      "excerpt": "解释 CRA 婚姻状态对税务、福利和抵免的影响。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "在加拿大，婚姻状态不只是报税表上的身份标签。CRA 会根据家庭净收入重新计算福利和抵免。结婚、common-law、分居、离婚或丧偶后，通常需要按要求更新时间。分居情况一般需要因关系破裂分开超过 90 天后再向 CRA 更新。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Célibataire, conjoint de fait, marié ou séparé : pourquoi le statut compte",
+      "excerpt": "Un aperçu de l’effet du statut matrimonial sur les prestations et crédits.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Le statut matrimonial influence les prestations et crédits calculés selon le revenu familial net. Un changement doit être communiqué à l’ARC selon les délais applicables; une séparation doit généralement durer 90 jours."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "couples-taxes-benefits-canada",
+  "date": "2026-04-27",
+  "category": "Canada Finance Basics",
+  "translations": {
+    "en": {
+      "title": "Couples and Taxes in Canada: Why Filing Separately Does Not Always Mean Being Treated Separately",
+      "excerpt": "A practical article about family net income, credits, and benefit recalculation for couples.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Canadian spouses and common-law partners usually file individual tax returns, but many benefits and credits are calculated using family net income. This is why two people may file separately but still be treated as a household for certain benefit calculations. The practical issue is not whether the tax software creates two returns, but whether the CRA has the correct relationship status and income information."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "加拿大伴侣报税：为什么分开报税不等于税务上完全分开",
+      "excerpt": "解释夫妻或 common-law 关系中家庭净收入和福利计算的基本逻辑。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "加拿大夫妻或 common-law 伴侣通常各自提交个人税表，但很多福利和抵免会根据家庭净收入计算。所以两个人即使分开报税，在部分福利计算上仍可能被视为一个家庭。重点不是软件生成几份税表，而是 CRA 是否掌握正确关系状态和收入信息。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Couples et impôts au Canada : déclarations séparées, calcul familial",
+      "excerpt": "Comprendre le revenu familial net et les prestations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Les conjoints déposent souvent des déclarations individuelles, mais plusieurs prestations utilisent le revenu familial net. L’enjeu est donc l’exactitude du statut et des revenus transmis à l’ARC."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "rrsp-tax-planning-basic-framework",
+  "date": "2026-04-27",
+  "category": "Canada Finance Basics",
+  "translations": {
+    "en": {
+      "title": "RRSP Tax Planning: Why the Refund Is Not the Whole Story",
+      "excerpt": "A beginner framework for understanding RRSP deductions, contribution room, and future taxable withdrawals.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "RRSP contributions can create a tax deduction, which may lead to a refund. But the refund is only one side of the story. RRSP withdrawals are generally taxable income later. The planning question is whether deferring tax from today to the future makes sense given income level, retirement expectations, employer pensions, cash needs, and contribution room shown on CRA records or a notice of assessment."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "RRSP 税务规划：为什么退税不是全部重点",
+      "excerpt": "解释 RRSP 抵税、额度和未来取款纳税之间的关系。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "RRSP 供款可以产生税务扣除，从而可能带来退税。但退税只是其中一面。RRSP 未来取款通常会作为收入纳税。真正的问题是：根据现在收入、未来退休收入、雇主养老金、现金需求和 CRA 显示的额度，把税延后是否合理。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Planification REER : le remboursement d’impôt n’est pas toute l’histoire",
+      "excerpt": "Un cadre simple pour comprendre les déductions et retraits futurs.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Les cotisations REER peuvent créer une déduction et donc un remboursement. Mais les retraits futurs sont généralement imposables. La planification doit tenir compte du revenu actuel, futur et des droits de cotisation."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "capital-gains-basics-canada",
+  "date": "2026-04-27",
+  "category": "Investing Learning Notes",
+  "translations": {
+    "en": {
+      "title": "Capital Gains in Canada: What Financial Learners Should Understand Before Selling Investments",
+      "excerpt": "A general explanation of capital gains, losses, taxable events, and why record keeping matters.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A capital gain generally happens when an investment or capital property is sold for more than its adjusted cost base. A loss can happen when it is sold for less. The taxable result may depend on account type, cost base, transaction date, currency, fees, and whether the asset is held personally or through a business. In a non-registered account, record keeping matters because the brokerage statement may not always tell the whole tax story."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "加拿大资本利得基础：卖出投资前应该理解什么",
+      "excerpt": "解释资本利得、亏损、应税事件和记录保存的重要性。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "资本利得通常发生在投资或资本资产以高于调整后成本基础的价格卖出时；低于成本卖出可能形成资本亏损。税务结果取决于账户类型、成本基础、交易日期、汇率、费用，以及资产是个人持有还是企业持有。非注册账户尤其需要保存记录，因为券商报表未必完整反映税务情况。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Gains en capital au Canada : ce qu’il faut comprendre avant de vendre",
+      "excerpt": "Une explication générale des gains, pertes et événements imposables.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Un gain en capital survient généralement lorsqu’un bien est vendu au-dessus de son coût de base rajusté. Le résultat fiscal dépend du compte, du coût, de la devise et des documents disponibles."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "self-employed-tax-installments-canada",
+  "date": "2026-04-27",
+  "category": "Founder & Small Business Finance",
+  "translations": {
+    "en": {
+      "title": "Self-Employed Tax Instalments in Canada: Why a Tax Bill Can Surprise New Entrepreneurs",
+      "excerpt": "A practical explanation of why self-employed people may need to pay tax instalments and how to prepare.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Employees often have income tax withheld from each paycheque. Self-employed people may not. That means a profitable year can produce a large tax bill later, and CRA may require instalment payments for people with income that does not have enough tax withheld. Common instalment dates for individuals are March 15, June 15, September 15, and December 15. Planning for tax cash flow is part of business survival."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "加拿大自雇税款分期：为什么新创业者容易被税单吓到",
+      "excerpt": "解释自雇人士为什么可能需要预缴税，以及如何提前准备。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "雇员通常每张工资单都会预扣所得税，自雇人士则未必如此。因此盈利年份可能在之后产生较大税单，CRA 也可能要求税款分期。个人常见分期日期是 3 月 15 日、6 月 15 日、9 月 15 日和 12 月 15 日。为税款预留现金，是企业生存的一部分。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Acomptes provisionnels pour travailleurs autonomes au Canada",
+      "excerpt": "Pourquoi une facture fiscale peut surprendre les nouveaux entrepreneurs.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Les salariés ont souvent de l’impôt retenu à la source. Les travailleurs autonomes peuvent devoir payer par acomptes, notamment aux dates du 15 mars, 15 juin, 15 septembre et 15 décembre."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "record-keeping-cra-small-business",
+  "date": "2026-04-27",
+  "category": "Founder & Small Business Finance",
+  "translations": {
+    "en": {
+      "title": "CRA Record Keeping for Small Businesses: Boring Work That Protects You Later",
+      "excerpt": "A practical guide to receipts, invoices, bank records, mileage logs, and why documentation is part of financial discipline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Record keeping is not only an accounting chore. It is how a business proves income, expenses, GST/HST, payroll, vehicle use, inventory, and asset purchases. CRA generally expects records and supporting documents to be retained for six years, with some long-term property or corporate records kept longer. Good records make tax filing, financing, valuation, and problem solving easier."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "加拿大小生意 CRA 记录保存：无聊但能保护你的工作",
+      "excerpt": "解释收据、发票、银行记录和里程记录的重要性。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "记录保存不只是会计杂活，而是企业证明收入、费用、GST/HST、工资、车辆使用、库存和资产购买的基础。CRA 通常要求相关记录和证明文件保留六年，部分长期资产或公司历史记录可能需要更久。好记录会让报税、融资、估值和解决问题更容易。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Tenue de registres pour petites entreprises : travail ennuyeux mais protecteur",
+      "excerpt": "Pourquoi les documents comptables protègent l’entreprise.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La tenue de registres prouve les revenus, dépenses, TPS/TVH, paie, véhicules et actifs. L’ARC demande généralement de conserver les documents pendant six ans, parfois plus longtemps pour certains biens."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "business-credit-card-vs-line-of-credit-canada",
+  "date": "2026-04-27",
+  "category": "Founder & Small Business Finance",
+  "translations": {
+    "en": {
+      "title": "Business Credit Card vs. Line of Credit: Which Problem Are You Solving?",
+      "excerpt": "A practical comparison of cards, credit lines, rewards, interest, and discipline for small operators.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A business credit card can be useful for purchases, receipts, short grace periods, and rewards. A business line of credit is usually a borrowing tool for larger or recurring cash flow timing gaps. The danger is using either one as permanent financing. If the balance cannot be paid down from predictable cash flow, the issue may be pricing, inventory, receivables, or expenses rather than simply access to credit."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "商业信用卡和信用额度：你到底在解决什么问题？",
+      "excerpt": "比较 business credit card 和 line of credit 的用途、成本和纪律要求。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "商业信用卡适合采购、收据管理、短期免息期和积分；商业信用额度更像是处理较大或反复现金时间差的借款工具。风险在于把两者当作长期融资。如果余额无法通过可预测现金流还下去，问题可能在定价、库存、应收账款或费用，而不是缺一个额度。"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Carte de crédit d’entreprise ou marge de crédit : quel problème résolvez-vous?",
+      "excerpt": "Comparer coût, flexibilité et discipline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Une carte d’entreprise sert aux achats et au suivi. Une marge de crédit sert plutôt aux écarts de trésorerie. Le danger est d’utiliser l’un ou l’autre comme financement permanent."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "cash-reserve-for-founders-canada",
+  "date": "2026-04-27",
+  "category": "Founder & Small Business Finance",
+  "translations": {
+    "en": {
+      "title": "Cash Reserve for Founders: How Small Businesses Can Think About Survival Runway",
+      "excerpt": "A founder-focused article on operating reserves, seasonal risk, and why growth without liquidity can break a business.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Growth can make a business look successful while draining cash. Inventory, payroll, rent, deposits, tax, freight, and marketing may all require cash before revenue arrives. A founder’s cash reserve is not laziness; it is oxygen. A practical reserve framework asks how many months the business can cover fixed costs, what seasonal lows look like, and which expenses can be delayed without damaging the business."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "创业者现金储备：小生意如何理解生存周期",
+      "excerpt": "解释营运储备、季节性风险和为什么没有流动性的增长也危险。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "增长可能让企业看起来成功，同时消耗现金。库存、工资、租金、订金、税、运费和营销都可能先花钱后回款。创业者的现金储备不是懒惰，而是氧气。实用框架是：固定成本能撑几个月？淡季低点在哪里？哪些费用可以延后而不伤害企业？"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Réserve de trésorerie pour fondateurs : penser la durée de survie",
+      "excerpt": "Comprendre la liquidité, la saisonnalité et la résilience.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La croissance peut consommer la trésorerie. Inventaire, paie, loyer, taxes et marketing exigent souvent de l’argent avant les revenus. Une réserve de trésorerie donne du temps et des options."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+},
+{
+  "slug": "tax-efficient-is-not-tax-evasion-canada",
+  "date": "2026-04-27",
+  "category": "Canada Finance Basics",
+  "translations": {
+    "en": {
+      "title": "Tax-Efficient Is Not Tax Evasion: How Canadians Can Think About Legal Tax Planning",
+      "excerpt": "A plain-language distinction between legitimate planning, documentation, and aggressive tax claims.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Tax-efficient planning means using available rules properly: registered accounts, eligible deductions, legitimate business expenses, timing, and documentation. Tax evasion means hiding income, inventing expenses, or misrepresenting facts. The grey zone is often where people copy online tips without understanding eligibility. A safer approach is to ask whether the claim is allowed, reasonable, documented, and connected to real income or activity."
+        },
+        {
+          "type": "heading",
+          "text": "Why this matters"
+        },
+        {
+          "type": "paragraph",
+          "text": "This topic matters because small misunderstandings can become expensive once a contract is signed, a tax return is filed, or a repayment schedule begins. A useful financial learner does not rush to the final answer; they first define the situation, identify the relevant rule, and check the documents."
+        },
+        {
+          "type": "heading",
+          "text": "What to check before acting"
+        },
+        {
+          "type": "list",
+          "items": [
+            "The official rule or lender requirement, not only a social media explanation.",
+            "The dates, amounts, and account type involved.",
+            "Whether the issue is personal, business, tax, credit, or investment related.",
+            "Whether a licensed or qualified professional should confirm the final decision."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal is not to make every reader an expert. The goal is to make the first conversation with a professional more productive and to reduce the chance of making decisions from vague assumptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This article is for general education only. It is not personal tax, legal, lending, mortgage, or investment advice."
+        }
+      ]
+    },
+    "zh": {
+      "title": "合法节税不是逃税：加拿大人如何理解合规税务规划",
+      "excerpt": "解释合法税务规划、文件证明和激进申报之间的边界。",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "合法节税是正确使用规则：注册账户、合格扣除、真实商业费用、时间安排和文件证明。逃税则是隐藏收入、编造费用或歪曲事实。灰色地带常出现在照搬网络技巧但不理解资格时。更安全的做法是问：这项申报是否允许、合理、有记录，并且和真实收入或活动有关？"
+        },
+        {
+          "type": "heading",
+          "text": "为什么这个话题重要"
+        },
+        {
+          "type": "paragraph",
+          "text": "这类问题重要，是因为一点点理解偏差就可能在签合同、报税或开始还款后变成真实成本。一个成熟的金融学习者不会急着要结论，而是先定义情况、找规则、查文件。"
+        },
+        {
+          "type": "heading",
+          "text": "行动前应检查什么"
+        },
+        {
+          "type": "list",
+          "items": [
+            "官方规则或贷款要求，而不只是社交媒体解释。",
+            "涉及的日期、金额和账户类型。",
+            "这是个人、商业、税务、信用还是投资问题。",
+            "是否需要持牌或合格专业人士确认最终决定。"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "目标不是让每个读者变成专家，而是让读者和专业人士沟通时更有效，减少因为模糊假设而做决定的风险。"
+        },
+        {
+          "type": "paragraph",
+          "text": "本文仅用于一般学习，不构成个人税务、法律、贷款、房贷或投资建议。"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Optimisation fiscale légale ou évasion fiscale : comprendre la différence",
+      "excerpt": "Une distinction claire entre planification, preuves et réclamations agressives.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "L’optimisation fiscale légale utilise correctement les règles disponibles. L’évasion cache le revenu ou invente des dépenses. La prudence consiste à vérifier l’admissibilité, la raisonnabilité et les preuves."
+        },
+        {
+          "type": "heading",
+          "text": "Pourquoi c’est important"
+        },
+        {
+          "type": "paragraph",
+          "text": "De petites incompréhensions peuvent coûter cher une fois un contrat signé, une déclaration produite ou un calendrier de paiement commencé."
+        },
+        {
+          "type": "heading",
+          "text": "À vérifier avant d’agir"
+        },
+        {
+          "type": "list",
+          "items": [
+            "La règle officielle ou l’exigence du prêteur.",
+            "Les dates, montants et types de comptes.",
+            "La nature du problème : personnel, fiscal, crédit, entreprise ou investissement.",
+            "Le besoin éventuel d’un professionnel qualifié."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "L’objectif est de rendre la conversation avec un professionnel plus productive et de réduire les décisions fondées sur des suppositions vagues."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ce texte est éducatif et ne constitue pas un conseil personnel."
+        }
+      ]
+    }
+  }
+}
 ];
 
 export function getArticles(locale: Locale) {
