@@ -3,8 +3,15 @@ import { articles } from "../content/articles";
 import { locales } from "../lib/i18n";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://example.com";
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://canadafinancelearner.ca";
   const staticPaths = ["", "/articles", "/free-consultation", "/about", "/disclaimer", "/privacy-policy", "/contact"];
+
+  const rootUrl = [
+    {
+      url: baseUrl,
+      lastModified: new Date(),
+    },
+  ];
 
   const staticUrls = locales.flatMap((locale) =>
     staticPaths.map((path) => ({
@@ -20,5 +27,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }))
   );
 
-  return [...staticUrls, ...articleUrls];
+  return [...rootUrl, ...staticUrls, ...articleUrls];
 }
